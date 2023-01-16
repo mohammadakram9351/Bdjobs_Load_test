@@ -1,0 +1,669 @@
+timeStamp,elapsed,label,responseCode,responseMessage,threadName,dataType,success,failureMessage,bytes,sentBytes,grpThreads,allThreads,URL,Latency,IdleTime,Connect
+1673846560877,188,HTTP Request,Non HTTP response code: java.net.UnknownHostException,Non HTTP response message: www.mybdjobs.bdjobs.com,Thread Group 1-1,text,false,,2300,0,1,1,http://www.mybdjobs.bdjobs.com:443/,0,0,187
+1673846561071,182,/canonical.html-1,200,OK,Thread Group 1-1,text,true,,298,303,1,1,http://detectportal.firefox.com/canonical.html,182,0,15
+1673846561255,171,/success.txt-2,200,OK,Thread Group 1-1,text,true,,216,305,1,1,http://detectportal.firefox.com/success.txt?ipv6,170,0,0
+1673846561426,126,/success.txt-3,200,OK,Thread Group 1-1,text,true,,216,305,1,1,http://detectportal.firefox.com/success.txt?ipv4,126,0,0
+1673846561553,110,/canonical.html-4,200,OK,Thread Group 1-1,text,true,,298,303,1,1,http://detectportal.firefox.com/canonical.html,110,0,0
+1673846561665,106,/success.txt-5,200,OK,Thread Group 1-1,text,true,,216,305,1,1,http://detectportal.firefox.com/success.txt?ipv4,106,0,0
+1673846561771,111,/success.txt-6,200,OK,Thread Group 1-1,text,true,,216,305,1,1,http://detectportal.firefox.com/success.txt?ipv6,111,0,0
+1673846561884,120,Sign In/canonical.html-2,200,OK,Thread Group 1-1,text,true,,298,303,1,1,http://detectportal.firefox.com/canonical.html,120,0,0
+1673846562004,110,Sign In/success.txt-3,200,OK,Thread Group 1-1,text,true,,216,305,1,1,http://detectportal.firefox.com/success.txt?ipv4,110,0,0
+1673846562115,108,Sign In/success.txt-4,200,OK,Thread Group 1-1,text,true,,216,305,1,1,http://detectportal.firefox.com/success.txt?ipv6,108,0,0
+1673846562224,109,Sign In/canonical.html-5,200,OK,Thread Group 1-1,text,true,,298,303,1,1,http://detectportal.firefox.com/canonical.html,109,0,0
+1673846562333,172,Sign In/success.txt-7,200,OK,Thread Group 1-1,text,true,,216,305,1,1,http://detectportal.firefox.com/success.txt?ipv4,172,0,0
+1673846562506,127,Sign In/success.txt-6,200,OK,Thread Group 1-1,text,true,,216,305,1,1,http://detectportal.firefox.com/success.txt?ipv6,126,0,0
+1673846562635,704,Sign In/-8,200,OK,Thread Group 1-1,text,true,,864,425,1,1,http://r3.o.lencr.org/,704,0,73
+1673846563340,131,Sign In/canonical.html-9,200,OK,Thread Group 1-1,text,true,,298,303,1,1,http://detectportal.firefox.com/canonical.html,130,0,0
+1673846563473,170,Sign In/success.txt-10,200,OK,Thread Group 1-1,text,true,,216,305,1,1,http://detectportal.firefox.com/success.txt?ipv4,170,0,0
+1673846563644,104,Sign In/success.txt-11,200,OK,Thread Group 1-1,text,true,,216,305,1,1,http://detectportal.firefox.com/success.txt?ipv6,104,0,0
+1673846563750,124,Sign In/canonical.html-12,200,OK,Thread Group 1-1,text,true,,298,303,1,1,http://detectportal.firefox.com/canonical.html,123,0,0
+1673846563875,108,Sign In/success.txt-14,200,OK,Thread Group 1-1,text,true,,216,305,1,1,http://detectportal.firefox.com/success.txt?ipv6,108,0,0
+1673846563985,116,Sign In/success.txt-13,200,OK,Thread Group 1-1,text,true,,216,305,1,1,http://detectportal.firefox.com/success.txt?ipv4,115,0,0
+1673846564102,122,Sign In/canonical.html-15,200,OK,Thread Group 1-1,text,true,,298,303,1,1,http://detectportal.firefox.com/canonical.html,122,0,0
+1673846564225,121,Sign In/success.txt-17,200,OK,Thread Group 1-1,text,true,,216,305,1,1,http://detectportal.firefox.com/success.txt?ipv6,121,0,0
+1673846564347,106,Sign In/success.txt-16,200,OK,Thread Group 1-1,text,true,,216,305,1,1,http://detectportal.firefox.com/success.txt?ipv4,106,0,0
+1673846564455,107,Sign In/canonical.html-18,200,OK,Thread Group 1-1,text,true,,298,303,1,1,http://detectportal.firefox.com/canonical.html,107,0,0
+1673846564563,107,Sign In/success.txt-19,200,OK,Thread Group 1-1,text,true,,216,305,1,1,http://detectportal.firefox.com/success.txt?ipv4,106,0,0
+1673846564671,108,Sign In/success.txt-20,200,OK,Thread Group 1-1,text,true,,216,305,1,1,http://detectportal.firefox.com/success.txt?ipv6,108,0,0
+1673846564782,454,Sign In/-21,200,OK,Thread Group 1-1,text,true,,739,426,1,1,http://ocsp.digicert.com/,453,0,4
+1673846565238,2573,Sign In/mybdjobs/signin.asp-22,200,OK,Thread Group 1-1,text,true,,83999,470,1,1,https://mybdjobs.bdjobs.com/mybdjobs/signin.asp,2070,0,1791
+1673846567811,111,Sign In/canonical.html-23,200,OK,Thread Group 1-1,text,true,,298,303,1,1,http://detectportal.firefox.com/canonical.html,111,0,0
+1673846567923,108,Sign In/success.txt-24,200,OK,Thread Group 1-1,text,true,,216,305,1,1,http://detectportal.firefox.com/success.txt?ipv6,107,0,0
+1673846568031,111,Sign In/success.txt-25,200,OK,Thread Group 1-1,text,true,,216,305,1,1,http://detectportal.firefox.com/success.txt?ipv4,111,0,0
+1673846568143,113,Sign In/canonical.html-26,200,OK,Thread Group 1-1,text,true,,298,303,1,1,http://detectportal.firefox.com/canonical.html,113,0,0
+1673846568257,105,Sign In/success.txt-27,200,OK,Thread Group 1-1,text,true,,216,305,1,1,http://detectportal.firefox.com/success.txt?ipv4,104,0,0
+1673846568362,107,Sign In/success.txt-28,200,OK,Thread Group 1-1,text,true,,216,305,1,1,http://detectportal.firefox.com/success.txt?ipv6,107,0,0
+1673846568470,110,Sign In/canonical.html-29,200,OK,Thread Group 1-1,text,true,,298,303,1,1,http://detectportal.firefox.com/canonical.html,110,0,0
+1673846568581,121,Sign In/success.txt-31,200,OK,Thread Group 1-1,text,true,,216,305,1,1,http://detectportal.firefox.com/success.txt?ipv6,121,0,0
+1673846568703,139,Sign In/success.txt-30,200,OK,Thread Group 1-1,text,true,,216,305,1,1,http://detectportal.firefox.com/success.txt?ipv4,139,0,0
+1673846568843,123,Sign In/canonical.html-32,200,OK,Thread Group 1-1,text,true,,298,303,1,1,http://detectportal.firefox.com/canonical.html,123,0,0
+1673846568967,108,Sign In/success.txt-33,200,OK,Thread Group 1-1,text,true,,216,305,1,1,http://detectportal.firefox.com/success.txt?ipv4,108,0,0
+1673846569076,107,Sign In/success.txt-34,200,OK,Thread Group 1-1,text,true,,216,305,1,1,http://detectportal.firefox.com/success.txt?ipv6,107,0,0
+1673846569183,114,Sign In/canonical.html-35,200,OK,Thread Group 1-1,text,true,,298,303,1,1,http://detectportal.firefox.com/canonical.html,114,0,0
+1673846569298,117,Sign In/success.txt-37,200,OK,Thread Group 1-1,text,true,,216,305,1,1,http://detectportal.firefox.com/success.txt?ipv6,117,0,0
+1673846569416,109,Sign In/success.txt-36,200,OK,Thread Group 1-1,text,true,,216,305,1,1,http://detectportal.firefox.com/success.txt?ipv4,108,0,0
+1673846569525,109,Sign In/canonical.html-38,200,OK,Thread Group 1-1,text,true,,298,303,1,1,http://detectportal.firefox.com/canonical.html,108,0,0
+1673846569634,110,Sign In/success.txt-39,200,OK,Thread Group 1-1,text,true,,216,305,1,1,http://detectportal.firefox.com/success.txt?ipv6,110,0,0
+1673846569744,108,Sign In/success.txt-40,200,OK,Thread Group 1-1,text,true,,216,305,1,1,http://detectportal.firefox.com/success.txt?ipv4,108,0,0
+1673846569853,125,Sign In/canonical.html-41,200,OK,Thread Group 1-1,text,true,,298,303,1,1,http://detectportal.firefox.com/canonical.html,125,0,0
+1673846569979,109,Sign In/success.txt-43,200,OK,Thread Group 1-1,text,true,,216,305,1,1,http://detectportal.firefox.com/success.txt?ipv6,109,0,0
+1673846570089,109,Sign In/success.txt-42,200,OK,Thread Group 1-1,text,true,,216,305,1,1,http://detectportal.firefox.com/success.txt?ipv4,109,0,0
+1673846570220,104,Sign In/canonical.html-44,200,OK,Thread Group 1-1,text,true,,298,303,1,1,http://detectportal.firefox.com/canonical.html,104,0,0
+1673846570328,122,Sign In/success.txt-45,200,OK,Thread Group 1-1,text,true,,216,305,1,1,http://detectportal.firefox.com/success.txt?ipv6,121,0,0
+1673846570450,113,Sign In/success.txt-46,200,OK,Thread Group 1-1,text,true,,216,305,1,1,http://detectportal.firefox.com/success.txt?ipv4,112,0,0
+1673846570564,105,Sign In/canonical.html-47,200,OK,Thread Group 1-1,text,true,,298,303,1,1,http://detectportal.firefox.com/canonical.html,104,0,0
+1673846570670,112,Sign In/success.txt-49,200,OK,Thread Group 1-1,text,true,,216,305,1,1,http://detectportal.firefox.com/success.txt?ipv4,112,0,0
+1673846570783,105,Sign In/success.txt-48,200,OK,Thread Group 1-1,text,true,,216,305,1,1,http://detectportal.firefox.com/success.txt?ipv6,105,0,0
+1673846570889,141,Sign In/canonical.html-50,200,OK,Thread Group 1-1,text,true,,298,303,1,1,http://detectportal.firefox.com/canonical.html,140,0,0
+1673846571032,105,Sign In/success.txt-52,200,OK,Thread Group 1-1,text,true,,216,305,1,1,http://detectportal.firefox.com/success.txt?ipv6,105,0,0
+1673846571138,111,Sign In/success.txt-51,200,OK,Thread Group 1-1,text,true,,216,305,1,1,http://detectportal.firefox.com/success.txt?ipv4,110,0,0
+1673846571249,108,Sign In/canonical.html-53,200,OK,Thread Group 1-1,text,true,,298,303,1,1,http://detectportal.firefox.com/canonical.html,108,0,0
+1673846571358,114,Sign In/success.txt-55,200,OK,Thread Group 1-1,text,true,,216,305,1,1,http://detectportal.firefox.com/success.txt?ipv4,114,0,0
+1673846571473,117,Sign In/success.txt-54,200,OK,Thread Group 1-1,text,true,,216,305,1,1,http://detectportal.firefox.com/success.txt?ipv6,117,0,0
+1673846571590,110,Sign In/canonical.html-56,200,OK,Thread Group 1-1,text,true,,298,303,1,1,http://detectportal.firefox.com/canonical.html,110,0,0
+1673846571701,109,Sign In/success.txt-57,200,OK,Thread Group 1-1,text,true,,216,305,1,1,http://detectportal.firefox.com/success.txt?ipv4,109,0,0
+1673846571810,111,Sign In/success.txt-58,200,OK,Thread Group 1-1,text,true,,216,305,1,1,http://detectportal.firefox.com/success.txt?ipv6,111,0,0
+1673846571921,107,Sign In/canonical.html-59,200,OK,Thread Group 1-1,text,true,,298,303,1,1,http://detectportal.firefox.com/canonical.html,107,0,0
+1673846572029,122,Sign In/success.txt-60,200,OK,Thread Group 1-1,text,true,,216,305,1,1,http://detectportal.firefox.com/success.txt?ipv6,122,0,0
+1673846572152,106,Sign In/success.txt-61,200,OK,Thread Group 1-1,text,true,,216,305,1,1,http://detectportal.firefox.com/success.txt?ipv4,106,0,0
+1673846572259,109,Sign In/canonical.html-62,200,OK,Thread Group 1-1,text,true,,298,303,1,1,http://detectportal.firefox.com/canonical.html,109,0,0
+1673846572369,107,Sign In/canonical.html-65,200,OK,Thread Group 1-1,text,true,,298,303,1,1,http://detectportal.firefox.com/canonical.html,106,0,0
+1673846572476,109,Sign In/success.txt-63,200,OK,Thread Group 1-1,text,true,,216,305,1,1,http://detectportal.firefox.com/success.txt?ipv6,109,0,0
+1673846572586,109,Sign In/success.txt-64,200,OK,Thread Group 1-1,text,true,,216,305,1,1,http://detectportal.firefox.com/success.txt?ipv4,109,0,0
+1673846572696,108,Sign In/success.txt-67,200,OK,Thread Group 1-1,text,true,,216,305,1,1,http://detectportal.firefox.com/success.txt?ipv4,108,0,0
+1673846572805,109,Sign In/success.txt-66,200,OK,Thread Group 1-1,text,true,,216,305,1,1,http://detectportal.firefox.com/success.txt?ipv6,109,0,0
+1673846572915,108,Sign In/canonical.html-68,200,OK,Thread Group 1-1,text,true,,298,303,1,1,http://detectportal.firefox.com/canonical.html,107,0,0
+1673846573024,125,Sign In/success.txt-69,200,OK,Thread Group 1-1,text,true,,216,305,1,1,http://detectportal.firefox.com/success.txt?ipv4,125,0,0
+1673846573150,111,Sign In/canonical.html-71,200,OK,Thread Group 1-1,text,true,,298,303,1,1,http://detectportal.firefox.com/canonical.html,111,0,0
+1673846573263,132,Sign In/success.txt-70,200,OK,Thread Group 1-1,text,true,,216,305,1,1,http://detectportal.firefox.com/success.txt?ipv6,132,0,0
+1673846573396,118,Sign In/success.txt-72,200,OK,Thread Group 1-1,text,true,,216,305,1,1,http://detectportal.firefox.com/success.txt?ipv4,118,0,0
+1673846573515,109,Sign In/success.txt-73,200,OK,Thread Group 1-1,text,true,,216,305,1,1,http://detectportal.firefox.com/success.txt?ipv6,109,0,0
+1673846573625,319,mybdjobs/signinprocess.asp-74,200,OK,Thread Group 1-1,text,true,,67924,720,1,1,https://mybdjobs.bdjobs.com/mybdjobs/signinprocess.asp,305,0,0
+1673846573944,258,Sign In/mybdjobs/images/male.png-75,200,OK,Thread Group 1-1,bin,true,,3188,433,1,1,https://mybdjobs.bdjobs.com/mybdjobs/images/male.png,258,0,0
+1673846574203,262,Sign In/js/signin_process.js-76,200,OK,Thread Group 1-1,text,true,,7985,408,1,1,https://mybdjobs.bdjobs.com/js/signin_process.js,261,0,0
+1673846574466,115,Sign In/canonical.html-77,200,OK,Thread Group 1-1,text,true,,298,303,1,1,http://detectportal.firefox.com/canonical.html,115,0,0
+1673846574582,111,Sign In/success.txt-79,200,OK,Thread Group 1-1,text,true,,216,305,1,1,http://detectportal.firefox.com/success.txt?ipv4,111,0,0
+1673846574694,121,Sign In/success.txt-78,200,OK,Thread Group 1-1,text,true,,216,305,1,1,http://detectportal.firefox.com/success.txt?ipv6,121,0,0
+1673846574816,117,Sign In/canonical.html-80,200,OK,Thread Group 1-1,text,true,,298,303,1,1,http://detectportal.firefox.com/canonical.html,117,0,0
+1673846574935,116,Sign In/success.txt-82,200,OK,Thread Group 1-1,text,true,,216,305,1,1,http://detectportal.firefox.com/success.txt?ipv6,115,0,0
+1673846575052,109,Sign In/canonical.html-83,200,OK,Thread Group 1-1,text,true,,298,303,1,1,http://detectportal.firefox.com/canonical.html,108,0,0
+1673846575162,123,Sign In/success.txt-81,200,OK,Thread Group 1-1,text,true,,216,305,1,1,http://detectportal.firefox.com/success.txt?ipv4,123,0,0
+1673846575286,115,Sign In/success.txt-84,200,OK,Thread Group 1-1,text,true,,216,305,1,1,http://detectportal.firefox.com/success.txt?ipv4,115,0,0
+1673846575402,119,Sign In/success.txt-85,200,OK,Thread Group 1-1,text,true,,216,305,1,1,http://detectportal.firefox.com/success.txt?ipv6,119,0,0
+1673846575528,290,mybdjobs/signinprocessAjax.asp-86,200,OK,Thread Group 1-1,text,true,,380,586,1,1,https://mybdjobs.bdjobs.com/mybdjobs/signinprocessAjax.asp,290,0,0
+1673846575820,906,mybdjobs/agent_log.asp-87,200,OK,Thread Group 1-1,text,true,,86813,2030,1,1,https://mybdjobs.bdjobs.com/mybdjobs/signin.asp?q=6,343,0,0
+1673846575820,344,mybdjobs/agent_log.asp-87-0,302,Object moved,Thread Group 1-1,text,true,,3298,769,1,1,https://mybdjobs.bdjobs.com/mybdjobs/agent_log.asp,343,0,0
+1673846576168,282,mybdjobs/agent_log.asp-87-1,302,Object moved,Thread Group 1-1,text,true,,527,629,1,1,https://mybdjobs.bdjobs.com/mybdjobs/welcome.asp,282,0,0
+1673846576451,275,mybdjobs/agent_log.asp-87-2,200,OK,Thread Group 1-1,text,true,,82988,632,1,1,https://mybdjobs.bdjobs.com/mybdjobs/signin.asp?q=6,266,0,0
+1673846576727,269,Sign In/css/assessment_cards.css-89,200,OK,Thread Group 1-1,text,true,,3522,420,1,1,https://mybdjobs.bdjobs.com/css/assessment_cards.css,265,0,0
+1673846576997,259,Sign In/css/customcarousel.css-90,200,OK,Thread Group 1-1,text,true,,2879,418,1,1,https://mybdjobs.bdjobs.com/css/customcarousel.css,259,0,0
+1673846577257,436,Sign In/css/simplebar.css-92,200,OK,Thread Group 1-1,text,true,,1175,413,1,1,https://mybdjobs.bdjobs.com/css/simplebar.css,436,0,0
+1673846577693,492,Sign In/css/video-interview-jobseeker.css-93,200,OK,Thread Group 1-1,text,true,,3094,429,1,1,https://mybdjobs.bdjobs.com/css/video-interview-jobseeker.css,492,0,0
+1673846578187,695,Sign In/css/videointerview.css-91,200,OK,Thread Group 1-1,text,true,,4187,418,1,1,https://mybdjobs.bdjobs.com/css/videointerview.css,694,0,0
+1673846578883,647,Sign In/css/smsjobalert.css-94,200,OK,Thread Group 1-1,text,true,,3421,415,1,1,https://mybdjobs.bdjobs.com/css/smsjobalert.css,647,0,0
+1673846579531,442,Sign In/css/edit-resume_LC.css-95,200,OK,Thread Group 1-1,text,true,,6577,418,1,1,https://mybdjobs.bdjobs.com/css/edit-resume_LC.css,442,0,0
+1673846579974,103,Sign In/canonical.html-101,200,OK,Thread Group 1-1,text,true,,298,303,1,1,http://detectportal.firefox.com/canonical.html,103,0,0
+1673846580082,103,Sign In/success.txt-103,200,OK,Thread Group 1-1,text,true,,216,305,1,1,http://detectportal.firefox.com/success.txt?ipv6,103,0,0
+1673846580186,110,Sign In/success.txt-102,200,OK,Thread Group 1-1,text,true,,216,305,1,1,http://detectportal.firefox.com/success.txt?ipv4,110,0,0
+1673846580297,356,Sign In/js/main.js-97,200,OK,Thread Group 1-1,text,true,,866,392,1,1,https://mybdjobs.bdjobs.com/js/main.js,356,0,0
+1673846580654,384,Sign In/js/customcarousel.js-98,200,OK,Thread Group 1-1,text,true,,8559,402,1,1,https://mybdjobs.bdjobs.com/js/customcarousel.js,384,0,0
+1673846581038,351,Sign In/js/certificate_feedback.js-99,200,OK,Thread Group 1-1,text,true,,2634,412,1,1,https://mybdjobs.bdjobs.com/js/certificate_feedback.js?v=1,351,0,0
+1673846581390,325,Sign In/js/load-feedback-data_LC.js-100,200,OK,Thread Group 1-1,text,true,,3448,413,1,1,https://mybdjobs.bdjobs.com/js/load-feedback-data_LC.js?v=1,325,0,0
+1673846581717,648,Sign In/js/new_js/common_edit_resume.js-96,200,OK,Thread Group 1-1,text,true,,23333,413,1,1,https://mybdjobs.bdjobs.com/js/new_js/common_edit_resume.js,640,0,0
+1673846582366,111,Sign In/canonical.html-109,200,OK,Thread Group 1-1,text,true,,298,303,1,1,http://detectportal.firefox.com/canonical.html,111,0,0
+1673846582477,109,Sign In/success.txt-111,200,OK,Thread Group 1-1,text,true,,216,305,1,1,http://detectportal.firefox.com/success.txt?ipv6,109,0,0
+1673846582587,141,Sign In/success.txt-110,200,OK,Thread Group 1-1,text,true,,216,305,1,1,http://detectportal.firefox.com/success.txt?ipv4,140,0,0
+1673846582728,347,Sign In/mybdjobs/images/amcat-badge.png-104,200,OK,Thread Group 1-1,bin,true,,2342,434,1,1,https://mybdjobs.bdjobs.com/mybdjobs/images/amcat-badge.png,347,0,0
+1673846583076,377,Sign In/mybdjobs/images/No-webcam.png-107,200,OK,Thread Group 1-1,bin,true,,4498,432,1,1,https://mybdjobs.bdjobs.com/mybdjobs/images/No-webcam.png,377,0,0
+1673846583454,290,Sign In/mybdjobs/images/mobile_popupvresbn.png-106,200,OK,Thread Group 1-1,bin,true,,7081,441,1,1,https://mybdjobs.bdjobs.com/mybdjobs/images/mobile_popupvresbn.png,290,0,0
+1673846583745,258,Sign In//mybdjobs/images/sms-notification.png-105,200,OK,Thread Group 1-1,bin,true,,1333,439,1,1,https://mybdjobs.bdjobs.com//mybdjobs/images/sms-notification.png,258,0,0
+1673846584004,264,Sign In/mybdjobs/images/desktop_popupvresbn.png-108,200,OK,Thread Group 1-1,bin,true,,11195,442,1,1,https://mybdjobs.bdjobs.com/mybdjobs/images/desktop_popupvresbn.png,264,0,0
+1673846584269,120,Sign In/canonical.html-112,200,OK,Thread Group 1-1,text,true,,298,303,1,1,http://detectportal.firefox.com/canonical.html,120,0,0
+1673846584390,140,Sign In/success.txt-114,200,OK,Thread Group 1-1,text,true,,216,305,1,1,http://detectportal.firefox.com/success.txt?ipv4,140,0,0
+1673846584531,128,Sign In/success.txt-113,200,OK,Thread Group 1-1,text,true,,216,305,1,1,http://detectportal.firefox.com/success.txt?ipv6,128,0,0
+1673846584660,149,Sign In/canonical.html-115,200,OK,Thread Group 1-1,text,true,,298,303,1,1,http://detectportal.firefox.com/canonical.html,149,0,0
+1673846584811,112,Sign In/success.txt-117,200,OK,Thread Group 1-1,text,true,,216,305,1,1,http://detectportal.firefox.com/success.txt?ipv6,111,0,0
+1673846584924,125,Sign In/success.txt-116,200,OK,Thread Group 1-1,text,true,,216,305,1,1,http://detectportal.firefox.com/success.txt?ipv4,125,0,0
+1673846585051,257,Sign In/mybdjobs/images/popup_vresbg_left.png-118,200,OK,Thread Group 1-1,bin,true,,2507,440,1,1,https://mybdjobs.bdjobs.com/mybdjobs/images/popup_vresbg_left.png,257,0,0
+1673846585309,258,Sign In/mybdjobs/images/popup_vresbg_right.png-119,200,OK,Thread Group 1-1,bin,true,,2586,441,1,1,https://mybdjobs.bdjobs.com/mybdjobs/images/popup_vresbg_right.png,258,0,0
+1673846585568,119,Sign In/canonical.html-120,200,OK,Thread Group 1-1,text,true,,298,303,1,1,http://detectportal.firefox.com/canonical.html,118,0,0
+1673846585688,113,Sign In/success.txt-121,200,OK,Thread Group 1-1,text,true,,216,305,1,1,http://detectportal.firefox.com/success.txt?ipv4,113,0,0
+1673846585802,153,Sign In/success.txt-122,200,OK,Thread Group 1-1,text,true,,216,305,1,1,http://detectportal.firefox.com/success.txt?ipv6,152,0,0
+1673846585956,120,Exam/canonical.html-90,200,OK,Thread Group 1-1,text,true,,298,303,1,1,http://detectportal.firefox.com/canonical.html,119,0,0
+1673846586077,112,Exam/success.txt-91,200,OK,Thread Group 1-1,text,true,,216,305,1,1,http://detectportal.firefox.com/success.txt?ipv4,112,0,0
+1673846586190,117,Exam/success.txt-92,200,OK,Thread Group 1-1,text,true,,216,305,1,1,http://detectportal.firefox.com/success.txt?ipv6,117,0,0
+1673846586308,115,Exam/canonical.html-93,200,OK,Thread Group 1-1,text,true,,298,303,1,1,http://detectportal.firefox.com/canonical.html,115,0,0
+1673846586425,155,Exam/success.txt-94,200,OK,Thread Group 1-1,text,true,,216,305,1,1,http://detectportal.firefox.com/success.txt?ipv4,155,0,0
+1673846586581,256,Exam/success.txt-95,200,OK,Thread Group 1-1,text,true,,216,305,1,1,http://detectportal.firefox.com/success.txt?ipv6,256,0,0
+1673846586838,1358,Exam/mybdjobs/invite-interview-home.asp-96,200,OK,Thread Group 1-1,text,true,,82644,1095,1,1,https://mybdjobs.bdjobs.com/mybdjobs/signin.asp?q=6,261,0,0
+1673846586838,261,Exam/mybdjobs/invite-interview-home.asp-96-0,302,Object moved,Thread Group 1-1,text,true,,527,555,1,1,https://mybdjobs.bdjobs.com/mybdjobs/invite-interview-home.asp?i=4,261,0,0
+1673846587100,1096,Exam/mybdjobs/invite-interview-home.asp-96-1,200,OK,Thread Group 1-1,text,true,,82117,540,1,1,https://mybdjobs.bdjobs.com/mybdjobs/signin.asp?q=6,285,0,0
+1673846588197,105,Exam/canonical.html-97,200,OK,Thread Group 1-1,text,true,,298,303,1,1,http://detectportal.firefox.com/canonical.html,105,0,0
+1673846588303,108,Exam/canonical.html-99,200,OK,Thread Group 1-1,text,true,,298,303,1,1,http://detectportal.firefox.com/canonical.html,108,0,0
+1673846588412,125,Exam/success.txt-98,200,OK,Thread Group 1-1,text,true,,216,305,1,1,http://detectportal.firefox.com/success.txt?ipv4,125,0,0
+1673846588537,108,Exam/success.txt-100,200,OK,Thread Group 1-1,text,true,,216,305,1,1,http://detectportal.firefox.com/success.txt?ipv6,107,0,0
+1673846588646,113,Exam/canonical.html-103,200,OK,Thread Group 1-1,text,true,,298,303,1,1,http://detectportal.firefox.com/canonical.html,112,0,0
+1673846588759,121,Exam/success.txt-101,200,OK,Thread Group 1-1,text,true,,216,305,1,1,http://detectportal.firefox.com/success.txt?ipv4,121,0,0
+1673846588880,113,Exam/success.txt-102,200,OK,Thread Group 1-1,text,true,,216,305,1,1,http://detectportal.firefox.com/success.txt?ipv6,112,0,0
+1673846588993,110,Exam/success.txt-105,200,OK,Thread Group 1-1,text,true,,216,305,1,1,http://detectportal.firefox.com/success.txt?ipv6,110,0,0
+1673846589103,109,Exam/success.txt-104,200,OK,Thread Group 1-1,text,true,,216,305,1,1,http://detectportal.firefox.com/success.txt?ipv4,108,0,0
+1673846589212,108,Exam/canonical.html-106,200,OK,Thread Group 1-1,text,true,,298,303,1,1,http://detectportal.firefox.com/canonical.html,108,0,0
+1673846589321,109,Exam/success.txt-108,200,OK,Thread Group 1-1,text,true,,216,305,1,1,http://detectportal.firefox.com/success.txt?ipv6,109,0,0
+1673846589430,108,Exam/success.txt-107,200,OK,Thread Group 1-1,text,true,,216,305,1,1,http://detectportal.firefox.com/success.txt?ipv4,108,0,0
+1673846589539,110,Exam/canonical.html-109,200,OK,Thread Group 1-1,text,true,,298,303,1,1,http://detectportal.firefox.com/canonical.html,109,0,0
+1673846589649,107,Exam/success.txt-110,200,OK,Thread Group 1-1,text,true,,216,305,1,1,http://detectportal.firefox.com/success.txt?ipv4,107,0,0
+1673846589757,111,Exam/success.txt-111,200,OK,Thread Group 1-1,text,true,,216,305,1,1,http://detectportal.firefox.com/success.txt?ipv6,111,0,0
+1673846589868,109,Exam/canonical.html-112,200,OK,Thread Group 1-1,text,true,,298,303,1,1,http://detectportal.firefox.com/canonical.html,109,0,0
+1673846589978,110,Exam/success.txt-113,200,OK,Thread Group 1-1,text,true,,216,305,1,1,http://detectportal.firefox.com/success.txt?ipv4,110,0,0
+1673846590088,172,Exam/success.txt-114,200,OK,Thread Group 1-1,text,true,,216,305,1,1,http://detectportal.firefox.com/success.txt?ipv6,172,0,0
+1673846590261,108,Exam/canonical.html-115,200,OK,Thread Group 1-1,text,true,,298,303,1,1,http://detectportal.firefox.com/canonical.html,108,0,0
+1673846590370,108,Exam/success.txt-116,200,OK,Thread Group 1-1,text,true,,216,305,1,1,http://detectportal.firefox.com/success.txt?ipv4,108,0,0
+1673846590479,109,Exam/success.txt-117,200,OK,Thread Group 1-1,text,true,,216,305,1,1,http://detectportal.firefox.com/success.txt?ipv6,108,0,0
+1673846590588,107,Exam/canonical.html-118,200,OK,Thread Group 1-1,text,true,,298,303,1,1,http://detectportal.firefox.com/canonical.html,107,0,0
+1673846590696,123,Exam/success.txt-120,200,OK,Thread Group 1-1,text,true,,216,305,1,1,http://detectportal.firefox.com/success.txt?ipv6,123,0,0
+1673846590819,113,Exam/success.txt-119,200,OK,Thread Group 1-1,text,true,,216,305,1,1,http://detectportal.firefox.com/success.txt?ipv4,113,0,0
+1673846590932,109,Exam/canonical.html-121,200,OK,Thread Group 1-1,text,true,,298,303,1,1,http://detectportal.firefox.com/canonical.html,109,0,0
+1673846591041,109,Exam/success.txt-122,200,OK,Thread Group 1-1,text,true,,216,305,1,1,http://detectportal.firefox.com/success.txt?ipv4,109,0,0
+1673846591150,140,Exam/success.txt-123,200,OK,Thread Group 1-1,text,true,,216,305,1,1,http://detectportal.firefox.com/success.txt?ipv6,140,0,0
+1673846591291,256,Invitation Details/mybdjobs/ajax-mybdjobs-notification.asp-124,200,OK,Thread Group 1-1,text,true,,729,569,1,1,https://mybdjobs.bdjobs.com/mybdjobs/ajax-mybdjobs-notification.asp?v=EN&s=mybdjobs&t=m&_=1673261384752,256,0,0
+1673846591547,258,Invitation Details/mybdjobs/ajax-mybdjobs-notification.asp-125,200,OK,Thread Group 1-1,text,true,,729,569,1,1,https://mybdjobs.bdjobs.com/mybdjobs/ajax-mybdjobs-notification.asp?v=EN&s=mybdjobs&t=n&_=1673261384751,257,0,0
+1673846591805,1303,Invitation Details/mybdjobs/invite-interview-detail.asp-126,200,OK,Thread Group 1-1,text,true,,83515,1144,1,1,https://mybdjobs.bdjobs.com/mybdjobs/signin.asp?q=6,257,0,0
+1673846591805,257,Invitation Details/mybdjobs/invite-interview-detail.asp-126-0,302,Object moved,Thread Group 1-1,text,true,,527,586,1,1,https://mybdjobs.bdjobs.com/mybdjobs/invite-interview-detail.asp?id=1113479&i=4,257,0,0
+1673846592063,1045,Invitation Details/mybdjobs/invite-interview-detail.asp-126-1,200,OK,Thread Group 1-1,text,true,,82988,558,1,1,https://mybdjobs.bdjobs.com/mybdjobs/signin.asp?q=6,271,0,0
+1673846593109,118,Invitation Details/canonical.html-127,200,OK,Thread Group 1-1,text,true,,298,303,1,1,http://detectportal.firefox.com/canonical.html,118,0,0
+1673846593228,125,Invitation Details/success.txt-129,200,OK,Thread Group 1-1,text,true,,216,305,1,1,http://detectportal.firefox.com/success.txt?ipv6,125,0,0
+1673846593354,121,Invitation Details/success.txt-128,200,OK,Thread Group 1-1,text,true,,216,305,1,1,http://detectportal.firefox.com/success.txt?ipv4,121,0,0
+1673846593476,112,Invitation Details/canonical.html-130,200,OK,Thread Group 1-1,text,true,,298,303,1,1,http://detectportal.firefox.com/canonical.html,112,0,0
+1673846593588,110,Invitation Details/success.txt-131,200,OK,Thread Group 1-1,text,true,,216,305,1,1,http://detectportal.firefox.com/success.txt?ipv4,110,0,0
+1673846593698,111,Invitation Details/success.txt-132,200,OK,Thread Group 1-1,text,true,,216,305,1,1,http://detectportal.firefox.com/success.txt?ipv6,111,0,0
+1673846593809,109,Invitation Details/canonical.html-133,200,OK,Thread Group 1-1,text,true,,298,303,1,1,http://detectportal.firefox.com/canonical.html,109,0,0
+1673846593918,108,Invitation Details/success.txt-134,200,OK,Thread Group 1-1,text,true,,216,305,1,1,http://detectportal.firefox.com/success.txt?ipv6,108,0,0
+1673846594027,111,Invitation Details/canonical.html-136,200,OK,Thread Group 1-1,text,true,,298,303,1,1,http://detectportal.firefox.com/canonical.html,111,0,0
+1673846594138,108,Invitation Details/success.txt-135,200,OK,Thread Group 1-1,text,true,,216,305,1,1,http://detectportal.firefox.com/success.txt?ipv4,108,0,0
+1673846594246,126,Invitation Details/success.txt-137,200,OK,Thread Group 1-1,text,true,,216,305,1,1,http://detectportal.firefox.com/success.txt?ipv4,126,0,0
+1673846594373,140,Invitation Details/success.txt-138,200,OK,Thread Group 1-1,text,true,,216,305,1,1,http://detectportal.firefox.com/success.txt?ipv6,140,0,0
+1673846594514,127,Invitation Details/canonical.html-139,200,OK,Thread Group 1-1,text,true,,298,303,1,1,http://detectportal.firefox.com/canonical.html,127,0,0
+1673846594641,122,Invitation Details/canonical.html-140,200,OK,Thread Group 1-1,text,true,,298,303,1,1,http://detectportal.firefox.com/canonical.html,122,0,0
+1673846594763,112,Invitation Details/success.txt-141,200,OK,Thread Group 1-1,text,true,,216,305,1,1,http://detectportal.firefox.com/success.txt?ipv6,112,0,0
+1673846594876,108,Invitation Details/success.txt-142,200,OK,Thread Group 1-1,text,true,,216,305,1,1,http://detectportal.firefox.com/success.txt?ipv4,108,0,0
+1673846594984,109,Invitation Details/success.txt-144,200,OK,Thread Group 1-1,text,true,,216,305,1,1,http://detectportal.firefox.com/success.txt?ipv6,108,0,0
+1673846595093,110,Invitation Details/success.txt-143,200,OK,Thread Group 1-1,text,true,,216,305,1,1,http://detectportal.firefox.com/success.txt?ipv4,110,0,0
+1673846595204,110,Invitation Details/canonical.html-145,200,OK,Thread Group 1-1,text,true,,298,303,1,1,http://detectportal.firefox.com/canonical.html,110,0,0
+1673846595315,109,Invitation Details/success.txt-146,200,OK,Thread Group 1-1,text,true,,216,305,1,1,http://detectportal.firefox.com/success.txt?ipv4,109,0,0
+1673846595425,108,Invitation Details/success.txt-147,200,OK,Thread Group 1-1,text,true,,216,305,1,1,http://detectportal.firefox.com/success.txt?ipv6,108,0,0
+1673846595534,115,Enter Exam Room/canonical.html-148,200,OK,Thread Group 1-1,text,true,,298,303,1,1,http://detectportal.firefox.com/canonical.html,115,0,0
+1673846595651,105,Enter Exam Room/success.txt-150,200,OK,Thread Group 1-1,text,true,,216,305,1,1,http://detectportal.firefox.com/success.txt?ipv6,105,0,0
+1673846595758,108,Enter Exam Room/success.txt-149,200,OK,Thread Group 1-1,text,true,,216,305,1,1,http://detectportal.firefox.com/success.txt?ipv4,108,0,0
+1673846595868,110,Enter Exam Room/canonical.html-151,200,OK,Thread Group 1-1,text,true,,298,303,1,1,http://detectportal.firefox.com/canonical.html,110,0,0
+1673846595978,109,Enter Exam Room/success.txt-153,200,OK,Thread Group 1-1,text,true,,216,305,1,1,http://detectportal.firefox.com/success.txt?ipv6,108,0,0
+1673846596088,109,Enter Exam Room/success.txt-152,200,OK,Thread Group 1-1,text,true,,216,305,1,1,http://detectportal.firefox.com/success.txt?ipv4,109,0,0
+1673846596197,408,Enter Exam Room/-154,200,OK,Thread Group 1-1,text,true,,799,426,1,1,http://ocsp.digicert.com/,408,0,0
+1673846596608,2194,Enter Exam Room/OnlineTestInstruction.asp-155,200,OK,Thread Group 1-1,text,true,,17459,1099,1,1,https://bdjobs.com/exam/OnlineTestFeedback.asp?val=t&examid=8151&par=299311,1111,0,825
+1673846596608,1111,Enter Exam Room/OnlineTestInstruction.asp-155-0,302,Object moved,Thread Group 1-1,text,true,,583,557,1,1,https://exam1.bdjobs.com/OnlineTestInstruction.asp?registration=1574423&examId=8151&slot=1,1111,0,825
+1673846597720,1082,Enter Exam Room/OnlineTestInstruction.asp-155-1,200,OK,Thread Group 1-1,text,true,,16876,542,1,1,https://bdjobs.com/exam/OnlineTestFeedback.asp?val=t&examid=8151&par=299311,1081,0,810
+1673846598804,550,Start Test/OnlineTestInstruction.asp-156,200,OK,Thread Group 1-1,text,true,,17459,1099,1,1,https://bdjobs.com/exam/OnlineTestFeedback.asp?val=t&examid=8151&par=299311,275,0,0
+1673846598804,275,Start Test/OnlineTestInstruction.asp-156-0,302,Object moved,Thread Group 1-1,text,true,,583,557,1,1,https://exam1.bdjobs.com/OnlineTestInstruction.asp?registration=1574423&examId=8151&slot=1,275,0,0
+1673846599080,274,Start Test/OnlineTestInstruction.asp-156-1,200,OK,Thread Group 1-1,text,true,,16876,542,1,1,https://bdjobs.com/exam/OnlineTestFeedback.asp?val=t&examid=8151&par=299311,273,0,0
+1673846599355,504,Start Test/onlinetestds.asp-157,500,Internal Server Error,Thread Group 1-1,text,false,,31500,572,1,1,https://exam1.bdjobs.com/onlinetestds.asp,256,0,0
+1673846599863,113,Start Test/canonical.html-164,200,OK,Thread Group 1-1,text,true,,298,303,1,1,http://detectportal.firefox.com/canonical.html,113,0,0
+1673846599977,108,Start Test/success.txt-165,200,OK,Thread Group 1-1,text,true,,216,305,1,1,http://detectportal.firefox.com/success.txt?ipv4,108,0,0
+1673846600086,109,Start Test/success.txt-166,200,OK,Thread Group 1-1,text,true,,216,305,1,1,http://detectportal.firefox.com/success.txt?ipv6,109,0,0
+1673846600196,253,Start Test/css/custalert.css-161,200,OK,Thread Group 1-1,text,true,,5185,403,1,1,https://exam1.bdjobs.com/css/custalert.css,252,0,0
+1673846600450,259,Start Test/css/onlineexam_ver_01.css-158,200,OK,Thread Group 1-1,text,true,,51738,411,1,1,https://exam1.bdjobs.com/css/onlineexam_ver_01.css,256,0,0
+1673846600710,256,Start Test/css/jquery-confirm.min.css-159,200,OK,Thread Group 1-1,text,true,,22779,412,1,1,https://exam1.bdjobs.com/css/jquery-confirm.min.css,255,0,0
+1673846600967,258,Start Test/css/katex.min_v02.css-163,200,OK,Thread Group 1-1,text,true,,22231,407,1,1,https://exam1.bdjobs.com/css/katex.min_v02.css,257,0,0
+1673846601225,261,Start Test/js/jquery-confirm.min.js-160,200,OK,Thread Group 1-1,text,true,,48142,396,1,1,https://exam1.bdjobs.com/js/jquery-confirm.min.js,257,0,0
+1673846601487,258,Start Test/css/quill.snow_v02.css-162,200,OK,Thread Group 1-1,text,true,,25153,408,1,1,https://exam1.bdjobs.com/css/quill.snow_v02.css,257,0,0
+1673846601746,265,Start Test/js/bdj-exam-room_ver_01.js-169,200,OK,Thread Group 1-1,text,true,,48079,405,1,1,https://exam1.bdjobs.com/js/bdj-exam-room_ver_01.js?ver=ote03,257,0,0
+1673846602011,360,Start Test/js/katex.min_ver_01.js-168,200,OK,Thread Group 1-1,text,true,,126980,394,1,1,https://exam1.bdjobs.com/js/katex.min_ver_01.js,266,0,0
+1673846602372,590,Start Test/js/quill_ver_01.js-167,200,OK,Thread Group 1-1,text,true,,214697,390,1,1,https://exam1.bdjobs.com/js/quill_ver_01.js,256,0,0
+1673846602963,267,Start Test/js/bdj-exam.js-170,200,OK,Thread Group 1-1,text,true,,26696,413,1,1,https://exam1.bdjobs.com/js/bdj-exam.js?ver=ote03,265,0,0
+1673846603231,255,Start Test/images/stationary-lessopacity.png-171,200,OK,Thread Group 1-1,bin,true,,6666,435,1,1,https://exam1.bdjobs.com/images/stationary-lessopacity.png,255,0,0
+1673846603487,272,Start Test/fonts/InterMedium.woff2-172,200,OK,Thread Group 1-1,text,true,,99139,444,1,1,https://exam1.bdjobs.com/fonts/InterMedium.woff2,256,0,0
+1673846603760,173,Start Test/canonical.html-173,200,OK,Thread Group 1-1,text,true,,298,303,1,1,http://detectportal.firefox.com/canonical.html,173,0,0
+1673846603934,164,Start Test/success.txt-174,200,OK,Thread Group 1-1,text,true,,216,305,1,1,http://detectportal.firefox.com/success.txt?ipv4,164,0,0
+1673846604099,130,Start Test/success.txt-175,200,OK,Thread Group 1-1,text,true,,216,305,1,1,http://detectportal.firefox.com/success.txt?ipv6,130,0,0
+1673846604230,599,Start Test/api//OnlineTest_answer.asp-176,200,OK,Thread Group 1-1,text,true,,793,726,1,1,https://exam1.bdjobs.com/api//OnlineTest_answer.asp,599,0,0
+1673846604830,282,Start Test/api//OnlineTest_answer.asp-177,200,OK,Thread Group 1-1,text,true,,789,722,1,1,https://exam1.bdjobs.com/api//OnlineTest_answer.asp,281,0,0
+1673846605113,280,Start Test/api//OnlineTest_answer.asp-178,200,OK,Thread Group 1-1,text,true,,789,722,1,1,https://exam1.bdjobs.com/api//OnlineTest_answer.asp,280,0,0
+1673846605394,289,Start Test/api//OnlineTest_answer.asp-179,200,OK,Thread Group 1-1,text,true,,779,701,1,1,https://exam1.bdjobs.com/api//OnlineTest_answer.asp,289,0,0
+1673846605684,302,Start Test/api//OnlineTest_answer.asp-180,200,OK,Thread Group 1-1,text,true,,790,723,1,1,https://exam1.bdjobs.com/api//OnlineTest_answer.asp,302,0,0
+1673846605987,292,Start Test/api//OnlineTest_answer.asp-181,200,OK,Thread Group 1-1,text,true,,788,721,1,1,https://exam1.bdjobs.com/api//OnlineTest_answer.asp,292,0,0
+1673846606279,263,Start Test/api//OnlineTest_answer_Action.asp-182,200,OK,Thread Group 1-1,text,true,,707,671,1,1,https://exam1.bdjobs.com/api//OnlineTest_answer_Action.asp,263,0,0
+1673846606543,117,Start Test/canonical.html-184,200,OK,Thread Group 1-1,text,true,,298,303,1,1,http://detectportal.firefox.com/canonical.html,117,0,0
+1673846606661,124,Start Test/success.txt-185,200,OK,Thread Group 1-1,text,true,,216,305,1,1,http://detectportal.firefox.com/success.txt?ipv4,124,0,0
+1673846606786,120,Start Test/success.txt-186,200,OK,Thread Group 1-1,text,true,,216,305,1,1,http://detectportal.firefox.com/success.txt?ipv6,120,0,0
+1673846606907,257,Start Test/api//OnlineTest_answer_Action.asp-183,200,OK,Thread Group 1-1,text,true,,707,671,1,1,https://exam1.bdjobs.com/api//OnlineTest_answer_Action.asp,257,0,0
+1673846607164,115,Start Test/canonical.html-187,200,OK,Thread Group 1-1,text,true,,298,303,1,1,http://detectportal.firefox.com/canonical.html,115,0,0
+1673846607280,108,Start Test/success.txt-188,200,OK,Thread Group 1-1,text,true,,216,305,1,1,http://detectportal.firefox.com/success.txt?ipv4,108,0,0
+1673846607389,127,Start Test/success.txt-189,200,OK,Thread Group 1-1,text,true,,216,305,1,1,http://detectportal.firefox.com/success.txt?ipv6,127,0,0
+1673846607518,1108,Start Test/exam/OnlineTestFeedback.asp-190,200,OK,Thread Group 1-1,text,true,,16916,543,1,1,https://www.bdjobs.com/exam/OnlineTestFeedback.asp?val=c&examid=8151&par=299311,1107,0,823
+1673846608627,263,Start Test/js/bootstrap.min.js-192,200,OK,Thread Group 1-1,text,true,,10081,427,1,1,https://www.bdjobs.com/js/bootstrap.min.js,262,0,0
+1673846608890,260,Start Test/css/webfonts.css-194,200,OK,Thread Group 1-1,text,true,,784,438,1,1,https://www.bdjobs.com/css/webfonts.css,260,0,0
+1673846609151,265,Start Test/css/online-exam-iconfont.css-193,200,OK,Thread Group 1-1,text,true,,1459,450,1,1,https://www.bdjobs.com/css/online-exam-iconfont.css,265,0,0
+1673846609417,268,Start Test/css/onlineexam_ver02.css-195,200,OK,Thread Group 1-1,text,true,,32247,446,1,1,https://www.bdjobs.com/css/onlineexam_ver02.css,266,0,0
+1673846609686,269,Start Test/js/jquery-1.11.3.min.js-196,200,OK,Thread Group 1-1,text,true,,33615,431,1,1,https://www.bdjobs.com/js/jquery-1.11.3.min.js,262,0,0
+1673846609956,265,Start Test/css/bootstrap.css-191,200,OK,Thread Group 1-1,text,true,,19888,439,1,1,https://www.bdjobs.com/css/bootstrap.css,263,0,0
+1673846610226,261,Start Test/images/Bdjobs-flogo.png-197,200,OK,Thread Group 1-1,bin,true,,3255,452,1,1,https://www.bdjobs.com/images/Bdjobs-flogo.png,261,0,0
+1673846610488,262,Start Test/fonts/online-exam-icon.ttf-199,200,OK,Thread Group 1-1,text,true,,2869,471,1,1,https://www.bdjobs.com/fonts/online-exam-icon.ttf?w7w2r2,262,0,0
+1673846610750,252,Start Test/images/favicon.ico-202,200,OK,Thread Group 1-1,bin,true,,7306,391,1,1,https://exam1.bdjobs.com/images/favicon.ico,252,0,0
+1673846611003,283,Start Test/fonts/InterRegular.woff2-198,200,OK,Thread Group 1-1,text,true,,91913,441,1,1,https://www.bdjobs.com/fonts/InterRegular.woff2,265,0,0
+1673846611287,109,Start Test/canonical.html-203,200,OK,Thread Group 1-1,text,true,,298,303,1,1,http://detectportal.firefox.com/canonical.html,109,0,0
+1673846611397,281,Start Test/fonts/InterSemiBold.woff2-200,200,OK,Thread Group 1-1,text,true,,100025,442,1,1,https://www.bdjobs.com/fonts/InterSemiBold.woff2,266,0,0
+1673846611678,112,Start Test/success.txt-204,200,OK,Thread Group 1-1,text,true,,216,305,1,1,http://detectportal.firefox.com/success.txt?ipv4,112,0,0
+1673846611791,105,Start Test/success.txt-205,200,OK,Thread Group 1-1,text,true,,216,305,1,1,http://detectportal.firefox.com/success.txt?ipv6,105,0,0
+1673846611897,111,Start Test/canonical.html-206,200,OK,Thread Group 1-1,text,true,,298,303,1,1,http://detectportal.firefox.com/canonical.html,111,0,0
+1673846612009,283,Start Test/fonts/InterBold.woff2-201,200,OK,Thread Group 1-1,text,true,,100290,438,1,1,https://www.bdjobs.com/fonts/InterBold.woff2,264,0,0
+1673846612293,111,Start Test/success.txt-207,200,OK,Thread Group 1-1,text,true,,216,305,1,1,http://detectportal.firefox.com/success.txt?ipv4,111,0,0
+1673846612405,112,Start Test/success.txt-208,200,OK,Thread Group 1-1,text,true,,216,305,1,1,http://detectportal.firefox.com/success.txt?ipv6,112,0,0
+1673846612518,114,Start Test/canonical.html-209,200,OK,Thread Group 1-1,text,true,,298,303,1,1,http://detectportal.firefox.com/canonical.html,114,0,0
+1673846612633,117,Start Test/success.txt-210,200,OK,Thread Group 1-1,text,true,,216,305,1,1,http://detectportal.firefox.com/success.txt?ipv4,117,0,0
+1673846612751,114,Start Test/success.txt-211,200,OK,Thread Group 1-1,text,true,,216,305,1,1,http://detectportal.firefox.com/success.txt?ipv6,114,0,0
+1673846612867,124,Start Test/canonical.html-212,200,OK,Thread Group 1-1,text,true,,298,303,1,1,http://detectportal.firefox.com/canonical.html,123,0,0
+1673846612992,109,Start Test/success.txt-214,200,OK,Thread Group 1-1,text,true,,216,305,1,1,http://detectportal.firefox.com/success.txt?ipv6,108,0,0
+1673846613101,110,Start Test/success.txt-213,200,OK,Thread Group 1-1,text,true,,216,305,1,1,http://detectportal.firefox.com/success.txt?ipv4,110,0,0
+1673846613213,280,Start Test/exam/OnlineTestFeedback.asp?val=c&examid=8151&par=299311-215,200,OK,Thread Group 1-1,text,true,,11076,735,1,1,https://www.bdjobs.com/exam/OnlineTestFeedback.asp?val=c&examid=8151&par=299311,279,0,0
+1673846613493,128,Start Test/canonical.html-216,200,OK,Thread Group 1-1,text,true,,298,303,1,1,http://detectportal.firefox.com/canonical.html,128,0,0
+1673846613622,113,Start Test/success.txt-217,200,OK,Thread Group 1-1,text,true,,216,305,1,1,http://detectportal.firefox.com/success.txt?ipv4,112,0,0
+1673846613736,165,Start Test/success.txt-218,200,OK,Thread Group 1-1,text,true,,216,305,1,1,http://detectportal.firefox.com/success.txt?ipv6,165,0,0
+1673846613902,108,Start Test/canonical.html-219,200,OK,Thread Group 1-1,text,true,,298,303,1,1,http://detectportal.firefox.com/canonical.html,108,0,0
+1673846614010,109,Start Test/success.txt-221,200,OK,Thread Group 1-1,text,true,,216,305,1,1,http://detectportal.firefox.com/success.txt?ipv6,109,0,0
+1673846614120,108,Start Test/success.txt-220,200,OK,Thread Group 1-1,text,true,,216,305,1,1,http://detectportal.firefox.com/success.txt?ipv4,108,0,0
+1673846614229,1050,Start Test/mybdjobs/invite-interview-detail.asp-222,200,OK,Thread Group 1-1,text,true,,82724,1054,1,1,https://mybdjobs.bdjobs.com/mybdjobs/signin.asp?q=6,272,0,0
+1673846614229,272,Start Test/mybdjobs/invite-interview-detail.asp-222-0,302,Object moved,Thread Group 1-1,text,true,,527,541,1,1,https://mybdjobs.bdjobs.com/mybdjobs/invite-interview-detail.asp?id=1113479&i=4,272,0,0
+1673846614501,778,Start Test/mybdjobs/invite-interview-detail.asp-222-1,200,OK,Thread Group 1-1,text,true,,82197,513,1,1,https://mybdjobs.bdjobs.com/mybdjobs/signin.asp?q=6,266,0,0
+1673846615280,109,Start Test/canonical.html-223,200,OK,Thread Group 1-1,text,true,,298,303,1,1,http://detectportal.firefox.com/canonical.html,109,0,0
+1673846615390,107,Start Test/success.txt-224,200,OK,Thread Group 1-1,text,true,,216,305,1,1,http://detectportal.firefox.com/success.txt?ipv4,107,0,0
+1673846615498,110,Start Test/success.txt-225,200,OK,Thread Group 1-1,text,true,,216,305,1,1,http://detectportal.firefox.com/success.txt?ipv6,110,0,0
+1673846615609,108,Start Test/canonical.html-226,200,OK,Thread Group 1-1,text,true,,298,303,1,1,http://detectportal.firefox.com/canonical.html,108,0,0
+1673846615718,109,Start Test/success.txt-228,200,OK,Thread Group 1-1,text,true,,216,305,1,1,http://detectportal.firefox.com/success.txt?ipv6,109,0,0
+1673846615828,110,Start Test/success.txt-227,200,OK,Thread Group 1-1,text,true,,216,305,1,1,http://detectportal.firefox.com/success.txt?ipv4,110,0,0
+1673846615939,107,Start Test/canonical.html-229,200,OK,Thread Group 1-1,text,true,,298,303,1,1,http://detectportal.firefox.com/canonical.html,107,0,0
+1673846616047,109,Start Test/success.txt-230,200,OK,Thread Group 1-1,text,true,,216,305,1,1,http://detectportal.firefox.com/success.txt?ipv4,109,0,0
+1673846616157,108,Start Test/canonical.html-232,200,OK,Thread Group 1-1,text,true,,298,303,1,1,http://detectportal.firefox.com/canonical.html,108,0,0
+1673846616265,117,Start Test/success.txt-231,200,OK,Thread Group 1-1,text,true,,216,305,1,1,http://detectportal.firefox.com/success.txt?ipv6,117,0,0
+1673846616383,123,Start Test/success.txt-233,200,OK,Thread Group 1-1,text,true,,216,305,1,1,http://detectportal.firefox.com/success.txt?ipv6,123,0,0
+1673846616508,116,Start Test/success.txt-234,200,OK,Thread Group 1-1,text,true,,216,305,1,1,http://detectportal.firefox.com/success.txt?ipv4,116,0,0
+1673846616625,108,Start Test/canonical.html-235,200,OK,Thread Group 1-1,text,true,,298,303,1,1,http://detectportal.firefox.com/canonical.html,108,0,0
+1673846616733,109,Start Test/success.txt-236,200,OK,Thread Group 1-1,text,true,,216,305,1,1,http://detectportal.firefox.com/success.txt?ipv4,109,0,0
+1673846616843,108,Start Test/success.txt-237,200,OK,Thread Group 1-1,text,true,,216,305,1,1,http://detectportal.firefox.com/success.txt?ipv6,108,0,0
+1673846616952,127,Start Test/canonical.html-238,200,OK,Thread Group 1-1,text,true,,298,303,1,1,http://detectportal.firefox.com/canonical.html,126,0,0
+1673846617080,106,Start Test/success.txt-240,200,OK,Thread Group 1-1,text,true,,216,305,1,1,http://detectportal.firefox.com/success.txt?ipv6,106,0,0
+1673846617186,109,Start Test/success.txt-239,200,OK,Thread Group 1-1,text,true,,216,305,1,1,http://detectportal.firefox.com/success.txt?ipv4,109,0,0
+1673846617296,124,Sign In/canonical.html-1,200,OK,Thread Group 1-1,text,true,,298,303,1,1,http://detectportal.firefox.com/canonical.html,124,0,0
+1673846617421,110,Sign In/success.txt-2,200,OK,Thread Group 1-1,text,true,,216,305,1,1,http://detectportal.firefox.com/success.txt?ipv6,110,0,0
+1673846617532,107,Sign In/success.txt-3,200,OK,Thread Group 1-1,text,true,,216,305,1,1,http://detectportal.firefox.com/success.txt?ipv4,107,0,0
+1673846617639,116,Sign In/canonical.html-4,200,OK,Thread Group 1-1,text,true,,298,303,1,1,http://detectportal.firefox.com/canonical.html,116,0,0
+1673846617756,125,Sign In/success.txt-5,200,OK,Thread Group 1-1,text,true,,216,305,1,1,http://detectportal.firefox.com/success.txt?ipv6,125,0,0
+1673846617882,105,Sign In/success.txt-6,200,OK,Thread Group 1-1,text,true,,216,305,1,1,http://detectportal.firefox.com/success.txt?ipv4,104,0,0
+1673846617987,110,Sign In/canonical.html-7,200,OK,Thread Group 1-1,text,true,,298,303,1,1,http://detectportal.firefox.com/canonical.html,110,0,0
+1673846618098,117,Sign In/success.txt-8,200,OK,Thread Group 1-1,text,true,,216,305,1,1,http://detectportal.firefox.com/success.txt?ipv4,117,0,0
+1673846618216,115,Sign In/success.txt-9,200,OK,Thread Group 1-1,text,true,,216,305,1,1,http://detectportal.firefox.com/success.txt?ipv6,115,0,0
+1673846618331,125,Sign In/canonical.html-10,200,OK,Thread Group 1-1,text,true,,298,303,1,1,http://detectportal.firefox.com/canonical.html,125,0,0
+1673846618457,113,Sign In/success.txt-11,200,OK,Thread Group 1-1,text,true,,216,305,1,1,http://detectportal.firefox.com/success.txt?ipv4,113,0,0
+1673846618571,104,Sign In/success.txt-12,200,OK,Thread Group 1-1,text,true,,216,305,1,1,http://detectportal.firefox.com/success.txt?ipv6,103,0,0
+1673846618675,109,Sign In/canonical.html-13,200,OK,Thread Group 1-1,text,true,,298,303,1,1,http://detectportal.firefox.com/canonical.html,109,0,0
+1673846618786,107,Sign In/success.txt-14,200,OK,Thread Group 1-1,text,true,,216,305,1,1,http://detectportal.firefox.com/success.txt?ipv4,107,0,0
+1673846618894,112,Sign In/success.txt-15,200,OK,Thread Group 1-1,text,true,,216,305,1,1,http://detectportal.firefox.com/success.txt?ipv6,112,0,0
+1673846619007,1050,Sign In/mybdjobs/logout.asp-16,200,OK,Thread Group 1-1,text,true,,82644,1076,1,1,https://mybdjobs.bdjobs.com/mybdjobs/signin.asp?q=6,257,0,0
+1673846619007,257,Sign In/mybdjobs/logout.asp-16-0,302,Object moved,Thread Group 1-1,text,true,,527,536,1,1,https://mybdjobs.bdjobs.com/mybdjobs/logout.asp,257,0,0
+1673846619264,793,Sign In/mybdjobs/logout.asp-16-1,200,OK,Thread Group 1-1,text,true,,82117,540,1,1,https://mybdjobs.bdjobs.com/mybdjobs/signin.asp?q=6,271,0,0
+1673846620057,136,Sign In/canonical.html-18,200,OK,Thread Group 1-1,text,true,,298,303,1,1,http://detectportal.firefox.com/canonical.html,136,0,0
+1673846620194,115,Sign In/success.txt-19,200,OK,Thread Group 1-1,text,true,,216,305,1,1,http://detectportal.firefox.com/success.txt?ipv4,115,0,0
+1673846620310,113,Sign In/success.txt-20,200,OK,Thread Group 1-1,text,true,,216,305,1,1,http://detectportal.firefox.com/success.txt?ipv6,113,0,0
+1673846620424,1038,Sign In/mybdjobs/default.asp-17,200,OK,Thread Group 1-1,text,true,,84586,1073,1,1,https://mybdjobs.bdjobs.com/mybdjobs/signin.asp,257,0,0
+1673846620424,257,Sign In/mybdjobs/default.asp-17-0,302,Object moved,Thread Group 1-1,text,true,,507,537,1,1,https://mybdjobs.bdjobs.com/mybdjobs/default.asp,257,0,0
+1673846620682,780,Sign In/mybdjobs/default.asp-17-1,200,OK,Thread Group 1-1,text,true,,84079,536,1,1,https://mybdjobs.bdjobs.com/mybdjobs/signin.asp,265,0,0
+1673846621463,773,Sign In/mybdjobs/signin.asp-21,200,OK,Thread Group 1-1,text,true,,84870,536,1,1,https://mybdjobs.bdjobs.com/mybdjobs/signin.asp,265,0,0
+1673846622237,197,Sign In/canonical.html-22,200,OK,Thread Group 1-1,text,true,,298,303,1,1,http://detectportal.firefox.com/canonical.html,197,0,75
+1673846622434,107,Sign In/success.txt-24,200,OK,Thread Group 1-1,text,true,,216,305,1,1,http://detectportal.firefox.com/success.txt?ipv6,107,0,0
+1673846622542,110,Sign In/success.txt-23,200,OK,Thread Group 1-1,text,true,,216,305,1,1,http://detectportal.firefox.com/success.txt?ipv4,110,0,0
+1673846622652,108,Sign In/canonical.html-25,200,OK,Thread Group 1-1,text,true,,298,303,1,1,http://detectportal.firefox.com/canonical.html,108,0,0
+1673846622761,122,Sign In/canonical.html-26,200,OK,Thread Group 1-1,text,true,,298,303,1,1,http://detectportal.firefox.com/canonical.html,122,0,0
+1673846622884,108,Sign In/success.txt-27,200,OK,Thread Group 1-1,text,true,,216,305,1,1,http://detectportal.firefox.com/success.txt?ipv6,108,0,0
+1673846622993,107,Sign In/success.txt-28,200,OK,Thread Group 1-1,text,true,,216,305,1,1,http://detectportal.firefox.com/success.txt?ipv4,107,0,0
+1673846623101,108,Sign In/success.txt-29,200,OK,Thread Group 1-1,text,true,,216,305,1,1,http://detectportal.firefox.com/success.txt?ipv4,108,0,0
+1673846623210,108,Sign In/success.txt-30,200,OK,Thread Group 1-1,text,true,,216,305,1,1,http://detectportal.firefox.com/success.txt?ipv6,108,0,0
+1673846623319,124,Sign In/canonical.html-31,200,OK,Thread Group 1-1,text,true,,298,303,1,1,http://detectportal.firefox.com/canonical.html,124,0,0
+1673846623444,121,Sign In/success.txt-32,200,OK,Thread Group 1-1,text,true,,216,305,1,1,http://detectportal.firefox.com/success.txt?ipv4,121,0,0
+1673846623566,129,Sign In/success.txt-33,200,OK,Thread Group 1-1,text,true,,216,305,1,1,http://detectportal.firefox.com/success.txt?ipv6,129,0,0
+1673846623695,110,Sign In/canonical.html-34,200,OK,Thread Group 1-1,text,true,,298,303,1,1,http://detectportal.firefox.com/canonical.html,109,0,0
+1673846623805,110,Sign In/success.txt-36,200,OK,Thread Group 1-1,text,true,,216,305,1,1,http://detectportal.firefox.com/success.txt?ipv6,110,0,0
+1673846623916,107,Sign In/success.txt-35,200,OK,Thread Group 1-1,text,true,,216,305,1,1,http://detectportal.firefox.com/success.txt?ipv4,106,0,0
+1673846624023,110,Sign In/canonical.html-37,200,OK,Thread Group 1-1,text,true,,298,303,1,1,http://detectportal.firefox.com/canonical.html,110,0,0
+1673846624134,123,Sign In/success.txt-38,200,OK,Thread Group 1-1,text,true,,216,305,1,1,http://detectportal.firefox.com/success.txt?ipv4,123,0,0
+1673846624258,108,Sign In/success.txt-39,200,OK,Thread Group 1-1,text,true,,216,305,1,1,http://detectportal.firefox.com/success.txt?ipv6,108,0,0
+1673846624371,5,HTTP Request,Non HTTP response code: java.net.UnknownHostException,Non HTTP response message: www.mybdjobs.bdjobs.com,Thread Group 1-1,text,false,,2300,0,1,1,http://www.mybdjobs.bdjobs.com:443/,0,0,5
+1673846624378,112,/canonical.html-1,200,OK,Thread Group 1-1,text,true,,298,303,1,1,http://detectportal.firefox.com/canonical.html,112,0,0
+1673846624490,110,/success.txt-2,200,OK,Thread Group 1-1,text,true,,216,305,1,1,http://detectportal.firefox.com/success.txt?ipv6,110,0,0
+1673846624601,107,/success.txt-3,200,OK,Thread Group 1-1,text,true,,216,305,1,1,http://detectportal.firefox.com/success.txt?ipv4,107,0,0
+1673846624709,111,/canonical.html-4,200,OK,Thread Group 1-1,text,true,,298,303,1,1,http://detectportal.firefox.com/canonical.html,111,0,0
+1673846624820,124,/success.txt-5,200,OK,Thread Group 1-1,text,true,,216,305,1,1,http://detectportal.firefox.com/success.txt?ipv4,124,0,0
+1673846624945,108,/success.txt-6,200,OK,Thread Group 1-1,text,true,,216,305,1,1,http://detectportal.firefox.com/success.txt?ipv6,107,0,0
+1673846625053,109,Sign In/canonical.html-2,200,OK,Thread Group 1-1,text,true,,298,303,1,1,http://detectportal.firefox.com/canonical.html,109,0,0
+1673846625163,110,Sign In/success.txt-3,200,OK,Thread Group 1-1,text,true,,216,305,1,1,http://detectportal.firefox.com/success.txt?ipv4,110,0,0
+1673846625274,107,Sign In/success.txt-4,200,OK,Thread Group 1-1,text,true,,216,305,1,1,http://detectportal.firefox.com/success.txt?ipv6,107,0,0
+1673846625382,129,Sign In/canonical.html-5,200,OK,Thread Group 1-1,text,true,,298,303,1,1,http://detectportal.firefox.com/canonical.html,129,0,0
+1673846625511,120,Sign In/success.txt-7,200,OK,Thread Group 1-1,text,true,,216,305,1,1,http://detectportal.firefox.com/success.txt?ipv4,120,0,0
+1673846625631,108,Sign In/success.txt-6,200,OK,Thread Group 1-1,text,true,,216,305,1,1,http://detectportal.firefox.com/success.txt?ipv6,108,0,0
+1673846625740,571,Sign In/-8,200,OK,Thread Group 1-1,text,true,,864,425,1,1,http://r3.o.lencr.org/,570,0,62
+1673846626310,110,Sign In/canonical.html-9,200,OK,Thread Group 1-1,text,true,,298,303,1,1,http://detectportal.firefox.com/canonical.html,109,0,0
+1673846626420,107,Sign In/success.txt-10,200,OK,Thread Group 1-1,text,true,,216,305,1,1,http://detectportal.firefox.com/success.txt?ipv4,107,0,0
+1673846626528,123,Sign In/success.txt-11,200,OK,Thread Group 1-1,text,true,,216,305,1,1,http://detectportal.firefox.com/success.txt?ipv6,123,0,0
+1673846626652,108,Sign In/canonical.html-12,200,OK,Thread Group 1-1,text,true,,298,303,1,1,http://detectportal.firefox.com/canonical.html,108,0,0
+1673846626761,124,Sign In/success.txt-14,200,OK,Thread Group 1-1,text,true,,216,305,1,1,http://detectportal.firefox.com/success.txt?ipv6,124,0,0
+1673846626886,124,Sign In/success.txt-13,200,OK,Thread Group 1-1,text,true,,216,305,1,1,http://detectportal.firefox.com/success.txt?ipv4,124,0,0
+1673846627010,109,Sign In/canonical.html-15,200,OK,Thread Group 1-1,text,true,,298,303,1,1,http://detectportal.firefox.com/canonical.html,109,0,0
+1673846627120,108,Sign In/success.txt-17,200,OK,Thread Group 1-1,text,true,,216,305,1,1,http://detectportal.firefox.com/success.txt?ipv6,108,0,0
+1673846627229,109,Sign In/success.txt-16,200,OK,Thread Group 1-1,text,true,,216,305,1,1,http://detectportal.firefox.com/success.txt?ipv4,109,0,0
+1673846627339,108,Sign In/canonical.html-18,200,OK,Thread Group 1-1,text,true,,298,303,1,1,http://detectportal.firefox.com/canonical.html,108,0,0
+1673846627448,109,Sign In/success.txt-19,200,OK,Thread Group 1-1,text,true,,216,305,1,1,http://detectportal.firefox.com/success.txt?ipv4,109,0,0
+1673846627557,141,Sign In/success.txt-20,200,OK,Thread Group 1-1,text,true,,216,305,1,1,http://detectportal.firefox.com/success.txt?ipv6,141,0,0
+1673846627699,438,Sign In/-21,200,OK,Thread Group 1-1,text,true,,799,426,1,1,http://ocsp.digicert.com/,438,0,4
+1673846628138,1865,Sign In/mybdjobs/signin.asp-22,200,OK,Thread Group 1-1,text,true,,84870,470,1,1,https://mybdjobs.bdjobs.com/mybdjobs/signin.asp,1545,0,907
+1673846630003,119,Sign In/canonical.html-23,200,OK,Thread Group 1-1,text,true,,298,303,1,1,http://detectportal.firefox.com/canonical.html,119,0,0
+1673846630123,108,Sign In/success.txt-24,200,OK,Thread Group 1-1,text,true,,216,305,1,1,http://detectportal.firefox.com/success.txt?ipv6,108,0,0
+1673846630232,375,Sign In/success.txt-25,200,OK,Thread Group 1-1,text,true,,216,305,1,1,http://detectportal.firefox.com/success.txt?ipv4,375,0,0
+1673846630608,108,Sign In/canonical.html-26,200,OK,Thread Group 1-1,text,true,,298,303,1,1,http://detectportal.firefox.com/canonical.html,108,0,0
+1673846630717,109,Sign In/success.txt-27,200,OK,Thread Group 1-1,text,true,,216,305,1,1,http://detectportal.firefox.com/success.txt?ipv4,109,0,0
+1673846630827,107,Sign In/success.txt-28,200,OK,Thread Group 1-1,text,true,,216,305,1,1,http://detectportal.firefox.com/success.txt?ipv6,107,0,0
+1673846630936,110,Sign In/canonical.html-29,200,OK,Thread Group 1-1,text,true,,298,303,1,1,http://detectportal.firefox.com/canonical.html,110,0,0
+1673846631047,108,Sign In/success.txt-31,200,OK,Thread Group 1-1,text,true,,216,305,1,1,http://detectportal.firefox.com/success.txt?ipv6,108,0,0
+1673846631156,125,Sign In/success.txt-30,200,OK,Thread Group 1-1,text,true,,216,305,1,1,http://detectportal.firefox.com/success.txt?ipv4,125,0,0
+1673846631282,111,Sign In/canonical.html-32,200,OK,Thread Group 1-1,text,true,,298,303,1,1,http://detectportal.firefox.com/canonical.html,111,0,0
+1673846631394,123,Sign In/success.txt-33,200,OK,Thread Group 1-1,text,true,,216,305,1,1,http://detectportal.firefox.com/success.txt?ipv4,123,0,0
+1673846631518,111,Sign In/success.txt-34,200,OK,Thread Group 1-1,text,true,,216,305,1,1,http://detectportal.firefox.com/success.txt?ipv6,111,0,0
+1673846631629,109,Sign In/canonical.html-35,200,OK,Thread Group 1-1,text,true,,298,303,1,1,http://detectportal.firefox.com/canonical.html,109,0,0
+1673846631738,109,Sign In/success.txt-37,200,OK,Thread Group 1-1,text,true,,216,305,1,1,http://detectportal.firefox.com/success.txt?ipv6,109,0,0
+1673846631848,124,Sign In/success.txt-36,200,OK,Thread Group 1-1,text,true,,216,305,1,1,http://detectportal.firefox.com/success.txt?ipv4,124,0,0
+1673846631973,110,Sign In/canonical.html-38,200,OK,Thread Group 1-1,text,true,,298,303,1,1,http://detectportal.firefox.com/canonical.html,110,0,0
+1673846632083,125,Sign In/success.txt-39,200,OK,Thread Group 1-1,text,true,,216,305,1,1,http://detectportal.firefox.com/success.txt?ipv6,125,0,0
+1673846632208,111,Sign In/success.txt-40,200,OK,Thread Group 1-1,text,true,,216,305,1,1,http://detectportal.firefox.com/success.txt?ipv4,111,0,0
+1673846632319,123,Sign In/canonical.html-41,200,OK,Thread Group 1-1,text,true,,298,303,1,1,http://detectportal.firefox.com/canonical.html,123,0,0
+1673846632443,114,Sign In/success.txt-43,200,OK,Thread Group 1-1,text,true,,216,305,1,1,http://detectportal.firefox.com/success.txt?ipv6,113,0,0
+1673846632557,108,Sign In/success.txt-42,200,OK,Thread Group 1-1,text,true,,216,305,1,1,http://detectportal.firefox.com/success.txt?ipv4,108,0,0
+1673846632667,124,Sign In/canonical.html-44,200,OK,Thread Group 1-1,text,true,,298,303,1,1,http://detectportal.firefox.com/canonical.html,124,0,0
+1673846632792,108,Sign In/success.txt-45,200,OK,Thread Group 1-1,text,true,,216,305,1,1,http://detectportal.firefox.com/success.txt?ipv6,108,0,0
+1673846632901,113,Sign In/success.txt-46,200,OK,Thread Group 1-1,text,true,,216,305,1,1,http://detectportal.firefox.com/success.txt?ipv4,113,0,0
+1673846633015,121,Sign In/canonical.html-47,200,OK,Thread Group 1-1,text,true,,298,303,1,1,http://detectportal.firefox.com/canonical.html,121,0,0
+1673846633137,123,Sign In/success.txt-49,200,OK,Thread Group 1-1,text,true,,216,305,1,1,http://detectportal.firefox.com/success.txt?ipv4,123,0,0
+1673846633261,106,Sign In/success.txt-48,200,OK,Thread Group 1-1,text,true,,216,305,1,1,http://detectportal.firefox.com/success.txt?ipv6,106,0,0
+1673846633368,125,Sign In/canonical.html-50,200,OK,Thread Group 1-1,text,true,,298,303,1,1,http://detectportal.firefox.com/canonical.html,125,0,0
+1673846633493,109,Sign In/success.txt-52,200,OK,Thread Group 1-1,text,true,,216,305,1,1,http://detectportal.firefox.com/success.txt?ipv6,109,0,0
+1673846633602,124,Sign In/success.txt-51,200,OK,Thread Group 1-1,text,true,,216,305,1,1,http://detectportal.firefox.com/success.txt?ipv4,124,0,0
+1673846633727,126,Sign In/canonical.html-53,200,OK,Thread Group 1-1,text,true,,298,303,1,1,http://detectportal.firefox.com/canonical.html,125,0,0
+1673846633854,107,Sign In/success.txt-55,200,OK,Thread Group 1-1,text,true,,216,305,1,1,http://detectportal.firefox.com/success.txt?ipv4,107,0,0
+1673846633961,110,Sign In/success.txt-54,200,OK,Thread Group 1-1,text,true,,216,305,1,1,http://detectportal.firefox.com/success.txt?ipv6,110,0,0
+1673846634072,108,Sign In/canonical.html-56,200,OK,Thread Group 1-1,text,true,,298,303,1,1,http://detectportal.firefox.com/canonical.html,108,0,0
+1673846634182,108,Sign In/success.txt-57,200,OK,Thread Group 1-1,text,true,,216,305,1,1,http://detectportal.firefox.com/success.txt?ipv4,108,0,0
+1673846634291,111,Sign In/success.txt-58,200,OK,Thread Group 1-1,text,true,,216,305,1,1,http://detectportal.firefox.com/success.txt?ipv6,111,0,0
+1673846634403,110,Sign In/canonical.html-59,200,OK,Thread Group 1-1,text,true,,298,303,1,1,http://detectportal.firefox.com/canonical.html,110,0,0
+1673846634514,109,Sign In/success.txt-60,200,OK,Thread Group 1-1,text,true,,216,305,1,1,http://detectportal.firefox.com/success.txt?ipv6,109,0,0
+1673846634624,108,Sign In/success.txt-61,200,OK,Thread Group 1-1,text,true,,216,305,1,1,http://detectportal.firefox.com/success.txt?ipv4,108,0,0
+1673846634733,109,Sign In/canonical.html-62,200,OK,Thread Group 1-1,text,true,,298,303,1,1,http://detectportal.firefox.com/canonical.html,109,0,0
+1673846634844,108,Sign In/canonical.html-65,200,OK,Thread Group 1-1,text,true,,298,303,1,1,http://detectportal.firefox.com/canonical.html,108,0,0
+1673846634953,110,Sign In/success.txt-63,200,OK,Thread Group 1-1,text,true,,216,305,1,1,http://detectportal.firefox.com/success.txt?ipv6,110,0,0
+1673846635063,125,Sign In/success.txt-64,200,OK,Thread Group 1-1,text,true,,216,305,1,1,http://detectportal.firefox.com/success.txt?ipv4,124,0,0
+1673846635188,108,Sign In/success.txt-67,200,OK,Thread Group 1-1,text,true,,216,305,1,1,http://detectportal.firefox.com/success.txt?ipv4,108,0,0
+1673846635296,111,Sign In/success.txt-66,200,OK,Thread Group 1-1,text,true,,216,305,1,1,http://detectportal.firefox.com/success.txt?ipv6,111,0,0
+1673846635407,109,Sign In/canonical.html-68,200,OK,Thread Group 1-1,text,true,,298,303,1,1,http://detectportal.firefox.com/canonical.html,109,0,0
+1673846635516,110,Sign In/success.txt-69,200,OK,Thread Group 1-1,text,true,,216,305,1,1,http://detectportal.firefox.com/success.txt?ipv4,110,0,0
+1673846635626,109,Sign In/canonical.html-71,200,OK,Thread Group 1-1,text,true,,298,303,1,1,http://detectportal.firefox.com/canonical.html,109,0,0
+1673846635736,112,Sign In/success.txt-70,200,OK,Thread Group 1-1,text,true,,216,305,1,1,http://detectportal.firefox.com/success.txt?ipv6,112,0,0
+1673846635849,106,Sign In/success.txt-72,200,OK,Thread Group 1-1,text,true,,216,305,1,1,http://detectportal.firefox.com/success.txt?ipv4,106,0,0
+1673846635955,108,Sign In/success.txt-73,200,OK,Thread Group 1-1,text,true,,216,305,1,1,http://detectportal.firefox.com/success.txt?ipv6,108,0,0
+1673846636064,297,mybdjobs/signinprocess.asp-74,200,OK,Thread Group 1-1,text,true,,67924,720,1,1,https://mybdjobs.bdjobs.com/mybdjobs/signinprocess.asp,290,0,0
+1673846636361,257,Sign In/mybdjobs/images/male.png-75,200,OK,Thread Group 1-1,bin,true,,3188,433,1,1,https://mybdjobs.bdjobs.com/mybdjobs/images/male.png,257,0,0
+1673846636619,257,Sign In/js/signin_process.js-76,200,OK,Thread Group 1-1,text,true,,7985,408,1,1,https://mybdjobs.bdjobs.com/js/signin_process.js,257,0,0
+1673846636876,112,Sign In/canonical.html-77,200,OK,Thread Group 1-1,text,true,,298,303,1,1,http://detectportal.firefox.com/canonical.html,112,0,0
+1673846636989,108,Sign In/success.txt-79,200,OK,Thread Group 1-1,text,true,,216,305,1,1,http://detectportal.firefox.com/success.txt?ipv4,108,0,0
+1673846637098,109,Sign In/success.txt-78,200,OK,Thread Group 1-1,text,true,,216,305,1,1,http://detectportal.firefox.com/success.txt?ipv6,109,0,0
+1673846637208,140,Sign In/canonical.html-80,200,OK,Thread Group 1-1,text,true,,298,303,1,1,http://detectportal.firefox.com/canonical.html,139,0,0
+1673846637348,110,Sign In/success.txt-82,200,OK,Thread Group 1-1,text,true,,216,305,1,1,http://detectportal.firefox.com/success.txt?ipv6,110,0,0
+1673846637459,109,Sign In/canonical.html-83,200,OK,Thread Group 1-1,text,true,,298,303,1,1,http://detectportal.firefox.com/canonical.html,109,0,0
+1673846637569,123,Sign In/success.txt-81,200,OK,Thread Group 1-1,text,true,,216,305,1,1,http://detectportal.firefox.com/success.txt?ipv4,123,0,0
+1673846637693,110,Sign In/success.txt-84,200,OK,Thread Group 1-1,text,true,,216,305,1,1,http://detectportal.firefox.com/success.txt?ipv4,109,0,0
+1673846637803,112,Sign In/success.txt-85,200,OK,Thread Group 1-1,text,true,,216,305,1,1,http://detectportal.firefox.com/success.txt?ipv6,111,0,0
+1673846637917,273,mybdjobs/signinprocessAjax.asp-86,200,OK,Thread Group 1-1,text,true,,380,586,1,1,https://mybdjobs.bdjobs.com/mybdjobs/signinprocessAjax.asp,273,0,0
+1673846638191,869,mybdjobs/agent_log.asp-87,200,OK,Thread Group 1-1,text,true,,85946,2030,1,1,https://mybdjobs.bdjobs.com/mybdjobs/signin.asp?q=6,335,0,0
+1673846638191,335,mybdjobs/agent_log.asp-87-0,302,Object moved,Thread Group 1-1,text,true,,3302,769,1,1,https://mybdjobs.bdjobs.com/mybdjobs/agent_log.asp,335,0,0
+1673846638527,257,mybdjobs/agent_log.asp-87-1,302,Object moved,Thread Group 1-1,text,true,,527,629,1,1,https://mybdjobs.bdjobs.com/mybdjobs/welcome.asp,257,0,0
+1673846638784,276,mybdjobs/agent_log.asp-87-2,200,OK,Thread Group 1-1,text,true,,82117,632,1,1,https://mybdjobs.bdjobs.com/mybdjobs/signin.asp?q=6,268,0,0
+1673846639062,257,Sign In/css/assessment_cards.css-89,200,OK,Thread Group 1-1,text,true,,3522,420,1,1,https://mybdjobs.bdjobs.com/css/assessment_cards.css,257,0,0
+1673846639320,256,Sign In/css/customcarousel.css-90,200,OK,Thread Group 1-1,text,true,,2879,418,1,1,https://mybdjobs.bdjobs.com/css/customcarousel.css,255,0,0
+1673846639576,256,Sign In/css/simplebar.css-92,200,OK,Thread Group 1-1,text,true,,1175,413,1,1,https://mybdjobs.bdjobs.com/css/simplebar.css,256,0,0
+1673846639833,257,Sign In/css/video-interview-jobseeker.css-93,200,OK,Thread Group 1-1,text,true,,3094,429,1,1,https://mybdjobs.bdjobs.com/css/video-interview-jobseeker.css,257,0,0
+1673846640094,258,Sign In/css/videointerview.css-91,200,OK,Thread Group 1-1,text,true,,4187,418,1,1,https://mybdjobs.bdjobs.com/css/videointerview.css,257,0,0
+1673846640352,258,Sign In/css/smsjobalert.css-94,200,OK,Thread Group 1-1,text,true,,3421,415,1,1,https://mybdjobs.bdjobs.com/css/smsjobalert.css,258,0,0
+1673846640611,257,Sign In/css/edit-resume_LC.css-95,200,OK,Thread Group 1-1,text,true,,6577,418,1,1,https://mybdjobs.bdjobs.com/css/edit-resume_LC.css,257,0,0
+1673846640869,104,Sign In/canonical.html-101,200,OK,Thread Group 1-1,text,true,,298,303,1,1,http://detectportal.firefox.com/canonical.html,104,0,0
+1673846640975,111,Sign In/success.txt-103,200,OK,Thread Group 1-1,text,true,,216,305,1,1,http://detectportal.firefox.com/success.txt?ipv6,111,0,0
+1673846641087,108,Sign In/success.txt-102,200,OK,Thread Group 1-1,text,true,,216,305,1,1,http://detectportal.firefox.com/success.txt?ipv4,108,0,0
+1673846641195,256,Sign In/js/main.js-97,200,OK,Thread Group 1-1,text,true,,866,392,1,1,https://mybdjobs.bdjobs.com/js/main.js,256,0,0
+1673846641452,257,Sign In/js/customcarousel.js-98,200,OK,Thread Group 1-1,text,true,,8559,402,1,1,https://mybdjobs.bdjobs.com/js/customcarousel.js,257,0,0
+1673846641709,257,Sign In/js/certificate_feedback.js-99,200,OK,Thread Group 1-1,text,true,,2634,412,1,1,https://mybdjobs.bdjobs.com/js/certificate_feedback.js?v=1,257,0,0
+1673846641967,257,Sign In/js/load-feedback-data_LC.js-100,200,OK,Thread Group 1-1,text,true,,3448,413,1,1,https://mybdjobs.bdjobs.com/js/load-feedback-data_LC.js?v=1,257,0,0
+1673846642225,266,Sign In/js/new_js/common_edit_resume.js-96,200,OK,Thread Group 1-1,text,true,,23333,413,1,1,https://mybdjobs.bdjobs.com/js/new_js/common_edit_resume.js,261,0,0
+1673846642491,126,Sign In/canonical.html-109,200,OK,Thread Group 1-1,text,true,,298,303,1,1,http://detectportal.firefox.com/canonical.html,126,0,0
+1673846642618,108,Sign In/success.txt-111,200,OK,Thread Group 1-1,text,true,,216,305,1,1,http://detectportal.firefox.com/success.txt?ipv6,108,0,0
+1673846642727,108,Sign In/success.txt-110,200,OK,Thread Group 1-1,text,true,,216,305,1,1,http://detectportal.firefox.com/success.txt?ipv4,108,0,0
+1673846642836,293,Sign In/mybdjobs/images/amcat-badge.png-104,200,OK,Thread Group 1-1,bin,true,,2342,434,1,1,https://mybdjobs.bdjobs.com/mybdjobs/images/amcat-badge.png,293,0,0
+1673846643129,257,Sign In/mybdjobs/images/No-webcam.png-107,200,OK,Thread Group 1-1,bin,true,,4498,432,1,1,https://mybdjobs.bdjobs.com/mybdjobs/images/No-webcam.png,257,0,0
+1673846643387,259,Sign In/mybdjobs/images/mobile_popupvresbn.png-106,200,OK,Thread Group 1-1,bin,true,,7081,441,1,1,https://mybdjobs.bdjobs.com/mybdjobs/images/mobile_popupvresbn.png,259,0,0
+1673846643646,302,Sign In//mybdjobs/images/sms-notification.png-105,200,OK,Thread Group 1-1,bin,true,,1333,439,1,1,https://mybdjobs.bdjobs.com//mybdjobs/images/sms-notification.png,302,0,0
+1673846643948,258,Sign In/mybdjobs/images/desktop_popupvresbn.png-108,200,OK,Thread Group 1-1,bin,true,,11195,442,1,1,https://mybdjobs.bdjobs.com/mybdjobs/images/desktop_popupvresbn.png,258,0,0
+1673846644207,115,Sign In/canonical.html-112,200,OK,Thread Group 1-1,text,true,,298,303,1,1,http://detectportal.firefox.com/canonical.html,115,0,0
+1673846644322,140,Sign In/success.txt-114,200,OK,Thread Group 1-1,text,true,,216,305,1,1,http://detectportal.firefox.com/success.txt?ipv4,140,0,0
+1673846644463,121,Sign In/success.txt-113,200,OK,Thread Group 1-1,text,true,,216,305,1,1,http://detectportal.firefox.com/success.txt?ipv6,121,0,0
+1673846644585,108,Sign In/canonical.html-115,200,OK,Thread Group 1-1,text,true,,298,303,1,1,http://detectportal.firefox.com/canonical.html,108,0,0
+1673846644693,110,Sign In/success.txt-117,200,OK,Thread Group 1-1,text,true,,216,305,1,1,http://detectportal.firefox.com/success.txt?ipv6,110,0,0
+1673846644804,109,Sign In/success.txt-116,200,OK,Thread Group 1-1,text,true,,216,305,1,1,http://detectportal.firefox.com/success.txt?ipv4,109,0,0
+1673846644913,256,Sign In/mybdjobs/images/popup_vresbg_left.png-118,200,OK,Thread Group 1-1,bin,true,,2507,440,1,1,https://mybdjobs.bdjobs.com/mybdjobs/images/popup_vresbg_left.png,256,0,0
+1673846645170,257,Sign In/mybdjobs/images/popup_vresbg_right.png-119,200,OK,Thread Group 1-1,bin,true,,2586,441,1,1,https://mybdjobs.bdjobs.com/mybdjobs/images/popup_vresbg_right.png,257,0,0
+1673846645428,112,Sign In/canonical.html-120,200,OK,Thread Group 1-1,text,true,,298,303,1,1,http://detectportal.firefox.com/canonical.html,112,0,0
+1673846645540,109,Sign In/success.txt-121,200,OK,Thread Group 1-1,text,true,,216,305,1,1,http://detectportal.firefox.com/success.txt?ipv4,109,0,0
+1673846645650,111,Sign In/success.txt-122,200,OK,Thread Group 1-1,text,true,,216,305,1,1,http://detectportal.firefox.com/success.txt?ipv6,111,0,0
+1673846645762,140,Exam/canonical.html-90,200,OK,Thread Group 1-1,text,true,,298,303,1,1,http://detectportal.firefox.com/canonical.html,140,0,0
+1673846645902,112,Exam/success.txt-91,200,OK,Thread Group 1-1,text,true,,216,305,1,1,http://detectportal.firefox.com/success.txt?ipv4,112,0,0
+1673846646015,103,Exam/success.txt-92,200,OK,Thread Group 1-1,text,true,,216,305,1,1,http://detectportal.firefox.com/success.txt?ipv6,103,0,0
+1673846646119,109,Exam/canonical.html-93,200,OK,Thread Group 1-1,text,true,,298,303,1,1,http://detectportal.firefox.com/canonical.html,109,0,0
+1673846646228,110,Exam/success.txt-94,200,OK,Thread Group 1-1,text,true,,216,305,1,1,http://detectportal.firefox.com/success.txt?ipv4,110,0,0
+1673846646339,110,Exam/success.txt-95,200,OK,Thread Group 1-1,text,true,,216,305,1,1,http://detectportal.firefox.com/success.txt?ipv6,110,0,0
+1673846646450,531,Exam/mybdjobs/invite-interview-home.asp-96,200,OK,Thread Group 1-1,text,true,,83515,1095,1,1,https://mybdjobs.bdjobs.com/mybdjobs/signin.asp?q=6,258,0,0
+1673846646450,258,Exam/mybdjobs/invite-interview-home.asp-96-0,302,Object moved,Thread Group 1-1,text,true,,527,555,1,1,https://mybdjobs.bdjobs.com/mybdjobs/invite-interview-home.asp?i=4,258,0,0
+1673846646708,273,Exam/mybdjobs/invite-interview-home.asp-96-1,200,OK,Thread Group 1-1,text,true,,82988,540,1,1,https://mybdjobs.bdjobs.com/mybdjobs/signin.asp?q=6,266,0,0
+1673846646982,122,Exam/canonical.html-97,200,OK,Thread Group 1-1,text,true,,298,303,1,1,http://detectportal.firefox.com/canonical.html,122,0,0
+1673846647105,129,Exam/canonical.html-99,200,OK,Thread Group 1-1,text,true,,298,303,1,1,http://detectportal.firefox.com/canonical.html,129,0,0
+1673846647235,110,Exam/success.txt-98,200,OK,Thread Group 1-1,text,true,,216,305,1,1,http://detectportal.firefox.com/success.txt?ipv4,110,0,0
+1673846647345,122,Exam/success.txt-100,200,OK,Thread Group 1-1,text,true,,216,305,1,1,http://detectportal.firefox.com/success.txt?ipv6,122,0,0
+1673846647468,110,Exam/canonical.html-103,200,OK,Thread Group 1-1,text,true,,298,303,1,1,http://detectportal.firefox.com/canonical.html,110,0,0
+1673846647578,109,Exam/success.txt-101,200,OK,Thread Group 1-1,text,true,,216,305,1,1,http://detectportal.firefox.com/success.txt?ipv4,109,0,0
+1673846647687,378,Exam/success.txt-102,200,OK,Thread Group 1-1,text,true,,216,305,1,1,http://detectportal.firefox.com/success.txt?ipv6,378,0,0
+1673846648066,106,Exam/success.txt-105,200,OK,Thread Group 1-1,text,true,,216,305,1,1,http://detectportal.firefox.com/success.txt?ipv6,106,0,0
+1673846648173,111,Exam/success.txt-104,200,OK,Thread Group 1-1,text,true,,216,305,1,1,http://detectportal.firefox.com/success.txt?ipv4,111,0,0
+1673846648285,111,Exam/canonical.html-106,200,OK,Thread Group 1-1,text,true,,298,303,1,1,http://detectportal.firefox.com/canonical.html,111,0,0
+1673846648397,106,Exam/success.txt-108,200,OK,Thread Group 1-1,text,true,,216,305,1,1,http://detectportal.firefox.com/success.txt?ipv6,105,0,0
+1673846648503,109,Exam/success.txt-107,200,OK,Thread Group 1-1,text,true,,216,305,1,1,http://detectportal.firefox.com/success.txt?ipv4,109,0,0
+1673846648612,110,Exam/canonical.html-109,200,OK,Thread Group 1-1,text,true,,298,303,1,1,http://detectportal.firefox.com/canonical.html,110,0,0
+1673846648723,109,Exam/success.txt-110,200,OK,Thread Group 1-1,text,true,,216,305,1,1,http://detectportal.firefox.com/success.txt?ipv4,108,0,0
+1673846648832,107,Exam/success.txt-111,200,OK,Thread Group 1-1,text,true,,216,305,1,1,http://detectportal.firefox.com/success.txt?ipv6,107,0,0
+1673846648939,114,Exam/canonical.html-112,200,OK,Thread Group 1-1,text,true,,298,303,1,1,http://detectportal.firefox.com/canonical.html,114,0,0
+1673846649054,123,Exam/success.txt-113,200,OK,Thread Group 1-1,text,true,,216,305,1,1,http://detectportal.firefox.com/success.txt?ipv4,123,0,0
+1673846649178,111,Exam/success.txt-114,200,OK,Thread Group 1-1,text,true,,216,305,1,1,http://detectportal.firefox.com/success.txt?ipv6,111,0,0
+1673846649290,108,Exam/canonical.html-115,200,OK,Thread Group 1-1,text,true,,298,303,1,1,http://detectportal.firefox.com/canonical.html,108,0,0
+1673846649399,108,Exam/success.txt-116,200,OK,Thread Group 1-1,text,true,,216,305,1,1,http://detectportal.firefox.com/success.txt?ipv4,108,0,0
+1673846649507,110,Exam/success.txt-117,200,OK,Thread Group 1-1,text,true,,216,305,1,1,http://detectportal.firefox.com/success.txt?ipv6,109,0,0
+1673846649617,106,Exam/canonical.html-118,200,OK,Thread Group 1-1,text,true,,298,303,1,1,http://detectportal.firefox.com/canonical.html,106,0,0
+1673846649724,108,Exam/success.txt-120,200,OK,Thread Group 1-1,text,true,,216,305,1,1,http://detectportal.firefox.com/success.txt?ipv6,108,0,0
+1673846649832,109,Exam/success.txt-119,200,OK,Thread Group 1-1,text,true,,216,305,1,1,http://detectportal.firefox.com/success.txt?ipv4,109,0,0
+1673846649942,110,Exam/canonical.html-121,200,OK,Thread Group 1-1,text,true,,298,303,1,1,http://detectportal.firefox.com/canonical.html,110,0,0
+1673846650052,176,Exam/success.txt-122,200,OK,Thread Group 1-1,text,true,,216,305,1,1,http://detectportal.firefox.com/success.txt?ipv4,176,0,0
+1673846650228,111,Exam/success.txt-123,200,OK,Thread Group 1-1,text,true,,216,305,1,1,http://detectportal.firefox.com/success.txt?ipv6,111,0,0
+1673846650340,257,Invitation Details/mybdjobs/ajax-mybdjobs-notification.asp-124,200,OK,Thread Group 1-1,text,true,,729,569,1,1,https://mybdjobs.bdjobs.com/mybdjobs/ajax-mybdjobs-notification.asp?v=EN&s=mybdjobs&t=m&_=1673261384752,257,0,0
+1673846650598,258,Invitation Details/mybdjobs/ajax-mybdjobs-notification.asp-125,200,OK,Thread Group 1-1,text,true,,729,569,1,1,https://mybdjobs.bdjobs.com/mybdjobs/ajax-mybdjobs-notification.asp?v=EN&s=mybdjobs&t=n&_=1673261384751,258,0,0
+1673846650857,530,Invitation Details/mybdjobs/invite-interview-detail.asp-126,200,OK,Thread Group 1-1,text,true,,83515,1144,1,1,https://mybdjobs.bdjobs.com/mybdjobs/signin.asp?q=6,257,0,0
+1673846650857,257,Invitation Details/mybdjobs/invite-interview-detail.asp-126-0,302,Object moved,Thread Group 1-1,text,true,,527,586,1,1,https://mybdjobs.bdjobs.com/mybdjobs/invite-interview-detail.asp?id=1113479&i=4,257,0,0
+1673846651113,274,Invitation Details/mybdjobs/invite-interview-detail.asp-126-1,200,OK,Thread Group 1-1,text,true,,82988,558,1,1,https://mybdjobs.bdjobs.com/mybdjobs/signin.asp?q=6,266,0,0
+1673846651388,108,Invitation Details/canonical.html-127,200,OK,Thread Group 1-1,text,true,,298,303,1,1,http://detectportal.firefox.com/canonical.html,108,0,0
+1673846651497,109,Invitation Details/success.txt-129,200,OK,Thread Group 1-1,text,true,,216,305,1,1,http://detectportal.firefox.com/success.txt?ipv6,109,0,0
+1673846651607,109,Invitation Details/success.txt-128,200,OK,Thread Group 1-1,text,true,,216,305,1,1,http://detectportal.firefox.com/success.txt?ipv4,109,0,0
+1673846651716,110,Invitation Details/canonical.html-130,200,OK,Thread Group 1-1,text,true,,298,303,1,1,http://detectportal.firefox.com/canonical.html,110,0,0
+1673846651827,110,Invitation Details/success.txt-131,200,OK,Thread Group 1-1,text,true,,216,305,1,1,http://detectportal.firefox.com/success.txt?ipv4,109,0,0
+1673846651937,113,Invitation Details/success.txt-132,200,OK,Thread Group 1-1,text,true,,216,305,1,1,http://detectportal.firefox.com/success.txt?ipv6,113,0,0
+1673846652050,121,Invitation Details/canonical.html-133,200,OK,Thread Group 1-1,text,true,,298,303,1,1,http://detectportal.firefox.com/canonical.html,121,0,0
+1673846652171,207,Invitation Details/success.txt-134,200,OK,Thread Group 1-1,text,true,,216,305,1,1,http://detectportal.firefox.com/success.txt?ipv6,207,0,0
+1673846652379,110,Invitation Details/canonical.html-136,200,OK,Thread Group 1-1,text,true,,298,303,1,1,http://detectportal.firefox.com/canonical.html,110,0,0
+1673846652490,114,Invitation Details/success.txt-135,200,OK,Thread Group 1-1,text,true,,216,305,1,1,http://detectportal.firefox.com/success.txt?ipv4,114,0,0
+1673846652605,109,Invitation Details/success.txt-137,200,OK,Thread Group 1-1,text,true,,216,305,1,1,http://detectportal.firefox.com/success.txt?ipv4,109,0,0
+1673846652715,108,Invitation Details/success.txt-138,200,OK,Thread Group 1-1,text,true,,216,305,1,1,http://detectportal.firefox.com/success.txt?ipv6,108,0,0
+1673846652824,108,Invitation Details/canonical.html-139,200,OK,Thread Group 1-1,text,true,,298,303,1,1,http://detectportal.firefox.com/canonical.html,108,0,0
+1673846652933,108,Invitation Details/canonical.html-140,200,OK,Thread Group 1-1,text,true,,298,303,1,1,http://detectportal.firefox.com/canonical.html,108,0,0
+1673846653042,110,Invitation Details/success.txt-141,200,OK,Thread Group 1-1,text,true,,216,305,1,1,http://detectportal.firefox.com/success.txt?ipv6,110,0,0
+1673846653152,161,Invitation Details/success.txt-142,200,OK,Thread Group 1-1,text,true,,216,305,1,1,http://detectportal.firefox.com/success.txt?ipv4,161,0,0
+1673846653313,116,Invitation Details/success.txt-144,200,OK,Thread Group 1-1,text,true,,216,305,1,1,http://detectportal.firefox.com/success.txt?ipv6,116,0,0
+1673846653430,109,Invitation Details/success.txt-143,200,OK,Thread Group 1-1,text,true,,216,305,1,1,http://detectportal.firefox.com/success.txt?ipv4,109,0,0
+1673846653539,111,Invitation Details/canonical.html-145,200,OK,Thread Group 1-1,text,true,,298,303,1,1,http://detectportal.firefox.com/canonical.html,111,0,0
+1673846653651,109,Invitation Details/success.txt-146,200,OK,Thread Group 1-1,text,true,,216,305,1,1,http://detectportal.firefox.com/success.txt?ipv4,109,0,0
+1673846653761,108,Invitation Details/success.txt-147,200,OK,Thread Group 1-1,text,true,,216,305,1,1,http://detectportal.firefox.com/success.txt?ipv6,108,0,0
+1673846653870,112,Enter Exam Room/canonical.html-148,200,OK,Thread Group 1-1,text,true,,298,303,1,1,http://detectportal.firefox.com/canonical.html,112,0,0
+1673846653983,105,Enter Exam Room/success.txt-150,200,OK,Thread Group 1-1,text,true,,216,305,1,1,http://detectportal.firefox.com/success.txt?ipv6,105,0,0
+1673846654088,109,Enter Exam Room/success.txt-149,200,OK,Thread Group 1-1,text,true,,216,305,1,1,http://detectportal.firefox.com/success.txt?ipv4,109,0,0
+1673846654198,125,Enter Exam Room/canonical.html-151,200,OK,Thread Group 1-1,text,true,,298,303,1,1,http://detectportal.firefox.com/canonical.html,125,0,0
+1673846654323,141,Enter Exam Room/success.txt-153,200,OK,Thread Group 1-1,text,true,,216,305,1,1,http://detectportal.firefox.com/success.txt?ipv6,141,0,0
+1673846654465,109,Enter Exam Room/success.txt-152,200,OK,Thread Group 1-1,text,true,,216,305,1,1,http://detectportal.firefox.com/success.txt?ipv4,109,0,0
+1673846654575,169,Enter Exam Room/-154,200,OK,Thread Group 1-1,text,true,,799,426,1,1,http://ocsp.digicert.com/,169,0,0
+1673846654745,546,Enter Exam Room/OnlineTestInstruction.asp-155,200,OK,Thread Group 1-1,text,true,,17459,1099,1,1,https://bdjobs.com/exam/OnlineTestFeedback.asp?val=t&examid=8151&par=299311,278,0,0
+1673846654745,278,Enter Exam Room/OnlineTestInstruction.asp-155-0,302,Object moved,Thread Group 1-1,text,true,,583,557,1,1,https://exam1.bdjobs.com/OnlineTestInstruction.asp?registration=1574423&examId=8151&slot=1,278,0,0
+1673846655024,267,Enter Exam Room/OnlineTestInstruction.asp-155-1,200,OK,Thread Group 1-1,text,true,,16876,542,1,1,https://bdjobs.com/exam/OnlineTestFeedback.asp?val=t&examid=8151&par=299311,266,0,0
+1673846655292,533,Start Test/OnlineTestInstruction.asp-156,200,OK,Thread Group 1-1,text,true,,17459,1099,1,1,https://bdjobs.com/exam/OnlineTestFeedback.asp?val=t&examid=8151&par=299311,269,0,0
+1673846655292,269,Start Test/OnlineTestInstruction.asp-156-0,302,Object moved,Thread Group 1-1,text,true,,583,557,1,1,https://exam1.bdjobs.com/OnlineTestInstruction.asp?registration=1574423&examId=8151&slot=1,269,0,0
+1673846655561,264,Start Test/OnlineTestInstruction.asp-156-1,200,OK,Thread Group 1-1,text,true,,16876,542,1,1,https://bdjobs.com/exam/OnlineTestFeedback.asp?val=t&examid=8151&par=299311,263,0,0
+1673846655826,265,Start Test/onlinetestds.asp-157,500,Internal Server Error,Thread Group 1-1,text,false,,31500,572,1,1,https://exam1.bdjobs.com/onlinetestds.asp,256,0,0
+1673846656093,109,Start Test/canonical.html-164,200,OK,Thread Group 1-1,text,true,,298,303,1,1,http://detectportal.firefox.com/canonical.html,109,0,0
+1673846656203,111,Start Test/success.txt-165,200,OK,Thread Group 1-1,text,true,,216,305,1,1,http://detectportal.firefox.com/success.txt?ipv4,111,0,0
+1673846656314,109,Start Test/success.txt-166,200,OK,Thread Group 1-1,text,true,,216,305,1,1,http://detectportal.firefox.com/success.txt?ipv6,109,0,0
+1673846656423,251,Start Test/css/custalert.css-161,200,OK,Thread Group 1-1,text,true,,5185,403,1,1,https://exam1.bdjobs.com/css/custalert.css,251,0,0
+1673846656675,1287,Start Test/css/onlineexam_ver_01.css-158,200,OK,Thread Group 1-1,text,true,,51738,411,1,1,https://exam1.bdjobs.com/css/onlineexam_ver_01.css,1034,0,527
+1673846657963,258,Start Test/css/jquery-confirm.min.css-159,200,OK,Thread Group 1-1,text,true,,22779,412,1,1,https://exam1.bdjobs.com/css/jquery-confirm.min.css,257,0,0
+1673846658222,262,Start Test/css/katex.min_v02.css-163,200,OK,Thread Group 1-1,text,true,,22231,407,1,1,https://exam1.bdjobs.com/css/katex.min_v02.css,261,0,0
+1673846658485,267,Start Test/js/jquery-confirm.min.js-160,200,OK,Thread Group 1-1,text,true,,48142,396,1,1,https://exam1.bdjobs.com/js/jquery-confirm.min.js,263,0,0
+1673846658753,258,Start Test/css/quill.snow_v02.css-162,200,OK,Thread Group 1-1,text,true,,25153,408,1,1,https://exam1.bdjobs.com/css/quill.snow_v02.css,256,0,0
+1673846659011,272,Start Test/js/bdj-exam-room_ver_01.js-169,200,OK,Thread Group 1-1,text,true,,48079,405,1,1,https://exam1.bdjobs.com/js/bdj-exam-room_ver_01.js?ver=ote03,269,0,0
+1673846659284,352,Start Test/js/katex.min_ver_01.js-168,200,OK,Thread Group 1-1,text,true,,126980,394,1,1,https://exam1.bdjobs.com/js/katex.min_ver_01.js,259,0,0
+1673846659636,598,Start Test/js/quill_ver_01.js-167,200,OK,Thread Group 1-1,text,true,,214697,390,1,1,https://exam1.bdjobs.com/js/quill_ver_01.js,260,0,0
+1673846660234,260,Start Test/js/bdj-exam.js-170,200,OK,Thread Group 1-1,text,true,,26696,413,1,1,https://exam1.bdjobs.com/js/bdj-exam.js?ver=ote03,258,0,0
+1673846660494,261,Start Test/images/stationary-lessopacity.png-171,200,OK,Thread Group 1-1,bin,true,,6666,435,1,1,https://exam1.bdjobs.com/images/stationary-lessopacity.png,261,0,0
+1673846660755,283,Start Test/fonts/InterMedium.woff2-172,200,OK,Thread Group 1-1,text,true,,99139,444,1,1,https://exam1.bdjobs.com/fonts/InterMedium.woff2,270,0,0
+1673846661039,117,Start Test/canonical.html-173,200,OK,Thread Group 1-1,text,true,,298,303,1,1,http://detectportal.firefox.com/canonical.html,117,0,0
+1673846661157,110,Start Test/success.txt-174,200,OK,Thread Group 1-1,text,true,,216,305,1,1,http://detectportal.firefox.com/success.txt?ipv4,109,0,0
+1673846661267,172,Start Test/success.txt-175,200,OK,Thread Group 1-1,text,true,,216,305,1,1,http://detectportal.firefox.com/success.txt?ipv6,172,0,0
+1673846661440,284,Start Test/api//OnlineTest_answer.asp-176,200,OK,Thread Group 1-1,text,true,,793,726,1,1,https://exam1.bdjobs.com/api//OnlineTest_answer.asp,284,0,0
+1673846661724,327,Start Test/api//OnlineTest_answer.asp-177,200,OK,Thread Group 1-1,text,true,,789,722,1,1,https://exam1.bdjobs.com/api//OnlineTest_answer.asp,327,0,0
+1673846662052,281,Start Test/api//OnlineTest_answer.asp-178,200,OK,Thread Group 1-1,text,true,,789,722,1,1,https://exam1.bdjobs.com/api//OnlineTest_answer.asp,281,0,0
+1673846662333,282,Start Test/api//OnlineTest_answer.asp-179,200,OK,Thread Group 1-1,text,true,,779,701,1,1,https://exam1.bdjobs.com/api//OnlineTest_answer.asp,282,0,0
+1673846662615,338,Start Test/api//OnlineTest_answer.asp-180,200,OK,Thread Group 1-1,text,true,,790,723,1,1,https://exam1.bdjobs.com/api//OnlineTest_answer.asp,337,0,0
+1673846662953,388,Start Test/api//OnlineTest_answer.asp-181,200,OK,Thread Group 1-1,text,true,,788,721,1,1,https://exam1.bdjobs.com/api//OnlineTest_answer.asp,388,0,0
+1673846663342,258,Start Test/api//OnlineTest_answer_Action.asp-182,200,OK,Thread Group 1-1,text,true,,707,671,1,1,https://exam1.bdjobs.com/api//OnlineTest_answer_Action.asp,258,0,0
+1673846663601,107,Start Test/canonical.html-184,200,OK,Thread Group 1-1,text,true,,298,303,1,1,http://detectportal.firefox.com/canonical.html,107,0,0
+1673846663708,111,Start Test/success.txt-185,200,OK,Thread Group 1-1,text,true,,216,305,1,1,http://detectportal.firefox.com/success.txt?ipv4,111,0,0
+1673846663819,109,Start Test/success.txt-186,200,OK,Thread Group 1-1,text,true,,216,305,1,1,http://detectportal.firefox.com/success.txt?ipv6,109,0,0
+1673846663928,262,Start Test/api//OnlineTest_answer_Action.asp-183,200,OK,Thread Group 1-1,text,true,,707,671,1,1,https://exam1.bdjobs.com/api//OnlineTest_answer_Action.asp,262,0,0
+1673846664190,117,Start Test/canonical.html-187,200,OK,Thread Group 1-1,text,true,,298,303,1,1,http://detectportal.firefox.com/canonical.html,117,0,0
+1673846664308,121,Start Test/success.txt-188,200,OK,Thread Group 1-1,text,true,,216,305,1,1,http://detectportal.firefox.com/success.txt?ipv4,121,0,0
+1673846664430,114,Start Test/success.txt-189,200,OK,Thread Group 1-1,text,true,,216,305,1,1,http://detectportal.firefox.com/success.txt?ipv6,114,0,0
+1673846664544,285,Start Test/exam/OnlineTestFeedback.asp-190,200,OK,Thread Group 1-1,text,true,,16916,543,1,1,https://www.bdjobs.com/exam/OnlineTestFeedback.asp?val=c&examid=8151&par=299311,284,0,0
+1673846664829,266,Start Test/js/bootstrap.min.js-192,200,OK,Thread Group 1-1,text,true,,10081,427,1,1,https://www.bdjobs.com/js/bootstrap.min.js,266,0,0
+1673846665096,261,Start Test/css/webfonts.css-194,200,OK,Thread Group 1-1,text,true,,784,438,1,1,https://www.bdjobs.com/css/webfonts.css,261,0,0
+1673846665357,261,Start Test/css/online-exam-iconfont.css-193,200,OK,Thread Group 1-1,text,true,,1459,450,1,1,https://www.bdjobs.com/css/online-exam-iconfont.css,261,0,0
+1673846665618,267,Start Test/css/onlineexam_ver02.css-195,200,OK,Thread Group 1-1,text,true,,32247,446,1,1,https://www.bdjobs.com/css/onlineexam_ver02.css,265,0,0
+1673846665886,281,Start Test/js/jquery-1.11.3.min.js-196,200,OK,Thread Group 1-1,text,true,,33615,431,1,1,https://www.bdjobs.com/js/jquery-1.11.3.min.js,276,0,0
+1673846666167,265,Start Test/css/bootstrap.css-191,200,OK,Thread Group 1-1,text,true,,19888,439,1,1,https://www.bdjobs.com/css/bootstrap.css,262,0,0
+1673846666432,260,Start Test/images/Bdjobs-flogo.png-197,200,OK,Thread Group 1-1,bin,true,,3255,452,1,1,https://www.bdjobs.com/images/Bdjobs-flogo.png,260,0,0
+1673846666693,259,Start Test/fonts/online-exam-icon.ttf-199,200,OK,Thread Group 1-1,text,true,,2869,471,1,1,https://www.bdjobs.com/fonts/online-exam-icon.ttf?w7w2r2,259,0,0
+1673846666952,254,Start Test/images/favicon.ico-202,200,OK,Thread Group 1-1,bin,true,,7306,391,1,1,https://exam1.bdjobs.com/images/favicon.ico,254,0,0
+1673846667206,271,Start Test/fonts/InterRegular.woff2-198,200,OK,Thread Group 1-1,text,true,,91913,441,1,1,https://www.bdjobs.com/fonts/InterRegular.woff2,263,0,0
+1673846667477,113,Start Test/canonical.html-203,200,OK,Thread Group 1-1,text,true,,298,303,1,1,http://detectportal.firefox.com/canonical.html,113,0,0
+1673846667591,1292,Start Test/fonts/InterSemiBold.woff2-200,200,OK,Thread Group 1-1,text,true,,100025,442,1,1,https://www.bdjobs.com/fonts/InterSemiBold.woff2,1028,0,524
+1673846668884,101,Start Test/success.txt-204,200,OK,Thread Group 1-1,text,true,,216,305,1,1,http://detectportal.firefox.com/success.txt?ipv4,101,0,0
+1673846668986,111,Start Test/success.txt-205,200,OK,Thread Group 1-1,text,true,,216,305,1,1,http://detectportal.firefox.com/success.txt?ipv6,111,0,0
+1673846669097,110,Start Test/canonical.html-206,200,OK,Thread Group 1-1,text,true,,298,303,1,1,http://detectportal.firefox.com/canonical.html,110,0,0
+1673846669207,281,Start Test/fonts/InterBold.woff2-201,200,OK,Thread Group 1-1,text,true,,100290,438,1,1,https://www.bdjobs.com/fonts/InterBold.woff2,258,0,0
+1673846669489,107,Start Test/success.txt-207,200,OK,Thread Group 1-1,text,true,,216,305,1,1,http://detectportal.firefox.com/success.txt?ipv4,107,0,0
+1673846669596,110,Start Test/success.txt-208,200,OK,Thread Group 1-1,text,true,,216,305,1,1,http://detectportal.firefox.com/success.txt?ipv6,110,0,0
+1673846669706,108,Start Test/canonical.html-209,200,OK,Thread Group 1-1,text,true,,298,303,1,1,http://detectportal.firefox.com/canonical.html,108,0,0
+1673846669815,108,Start Test/success.txt-210,200,OK,Thread Group 1-1,text,true,,216,305,1,1,http://detectportal.firefox.com/success.txt?ipv4,108,0,0
+1673846669923,108,Start Test/success.txt-211,200,OK,Thread Group 1-1,text,true,,216,305,1,1,http://detectportal.firefox.com/success.txt?ipv6,108,0,0
+1673846670035,119,Start Test/canonical.html-212,200,OK,Thread Group 1-1,text,true,,298,303,1,1,http://detectportal.firefox.com/canonical.html,119,0,0
+1673846670155,109,Start Test/success.txt-214,200,OK,Thread Group 1-1,text,true,,216,305,1,1,http://detectportal.firefox.com/success.txt?ipv6,109,0,0
+1673846670265,109,Start Test/success.txt-213,200,OK,Thread Group 1-1,text,true,,216,305,1,1,http://detectportal.firefox.com/success.txt?ipv4,109,0,0
+1673846670375,264,Start Test/exam/OnlineTestFeedback.asp?val=c&examid=8151&par=299311-215,200,OK,Thread Group 1-1,text,true,,11076,735,1,1,https://www.bdjobs.com/exam/OnlineTestFeedback.asp?val=c&examid=8151&par=299311,264,0,0
+1673846670639,110,Start Test/canonical.html-216,200,OK,Thread Group 1-1,text,true,,298,303,1,1,http://detectportal.firefox.com/canonical.html,110,0,0
+1673846670750,110,Start Test/success.txt-217,200,OK,Thread Group 1-1,text,true,,216,305,1,1,http://detectportal.firefox.com/success.txt?ipv4,110,0,0
+1673846670861,125,Start Test/success.txt-218,200,OK,Thread Group 1-1,text,true,,216,305,1,1,http://detectportal.firefox.com/success.txt?ipv6,125,0,0
+1673846670987,108,Start Test/canonical.html-219,200,OK,Thread Group 1-1,text,true,,298,303,1,1,http://detectportal.firefox.com/canonical.html,108,0,0
+1673846671096,124,Start Test/success.txt-221,200,OK,Thread Group 1-1,text,true,,216,305,1,1,http://detectportal.firefox.com/success.txt?ipv6,124,0,0
+1673846671221,110,Start Test/success.txt-220,200,OK,Thread Group 1-1,text,true,,216,305,1,1,http://detectportal.firefox.com/success.txt?ipv4,110,0,0
+1673846671332,548,Start Test/mybdjobs/invite-interview-detail.asp-222,200,OK,Thread Group 1-1,text,true,,83515,1054,1,1,https://mybdjobs.bdjobs.com/mybdjobs/signin.asp?q=6,271,0,0
+1673846671332,271,Start Test/mybdjobs/invite-interview-detail.asp-222-0,302,Object moved,Thread Group 1-1,text,true,,527,541,1,1,https://mybdjobs.bdjobs.com/mybdjobs/invite-interview-detail.asp?id=1113479&i=4,271,0,0
+1673846671604,276,Start Test/mybdjobs/invite-interview-detail.asp-222-1,200,OK,Thread Group 1-1,text,true,,82988,513,1,1,https://mybdjobs.bdjobs.com/mybdjobs/signin.asp?q=6,265,0,0
+1673846671881,107,Start Test/canonical.html-223,200,OK,Thread Group 1-1,text,true,,298,303,1,1,http://detectportal.firefox.com/canonical.html,107,0,0
+1673846671989,110,Start Test/success.txt-224,200,OK,Thread Group 1-1,text,true,,216,305,1,1,http://detectportal.firefox.com/success.txt?ipv4,110,0,0
+1673846672099,107,Start Test/success.txt-225,200,OK,Thread Group 1-1,text,true,,216,305,1,1,http://detectportal.firefox.com/success.txt?ipv6,107,0,0
+1673846672206,109,Start Test/canonical.html-226,200,OK,Thread Group 1-1,text,true,,298,303,1,1,http://detectportal.firefox.com/canonical.html,109,0,0
+1673846672316,111,Start Test/success.txt-228,200,OK,Thread Group 1-1,text,true,,216,305,1,1,http://detectportal.firefox.com/success.txt?ipv6,110,0,0
+1673846672427,115,Start Test/success.txt-227,200,OK,Thread Group 1-1,text,true,,216,305,1,1,http://detectportal.firefox.com/success.txt?ipv4,115,0,0
+1673846672542,151,Start Test/canonical.html-229,200,OK,Thread Group 1-1,text,true,,298,303,1,1,http://detectportal.firefox.com/canonical.html,151,0,0
+1673846672694,108,Start Test/success.txt-230,200,OK,Thread Group 1-1,text,true,,216,305,1,1,http://detectportal.firefox.com/success.txt?ipv4,108,0,0
+1673846672803,109,Start Test/canonical.html-232,200,OK,Thread Group 1-1,text,true,,298,303,1,1,http://detectportal.firefox.com/canonical.html,109,0,0
+1673846672951,103,Start Test/success.txt-231,200,OK,Thread Group 1-1,text,true,,216,305,1,1,http://detectportal.firefox.com/success.txt?ipv6,102,0,0
+1673846673054,109,Start Test/success.txt-233,200,OK,Thread Group 1-1,text,true,,216,305,1,1,http://detectportal.firefox.com/success.txt?ipv6,109,0,0
+1673846673164,111,Start Test/success.txt-234,200,OK,Thread Group 1-1,text,true,,216,305,1,1,http://detectportal.firefox.com/success.txt?ipv4,111,0,0
+1673846673276,125,Start Test/canonical.html-235,200,OK,Thread Group 1-1,text,true,,298,303,1,1,http://detectportal.firefox.com/canonical.html,125,0,0
+1673846673402,107,Start Test/success.txt-236,200,OK,Thread Group 1-1,text,true,,216,305,1,1,http://detectportal.firefox.com/success.txt?ipv4,107,0,0
+1673846673510,149,Start Test/success.txt-237,200,OK,Thread Group 1-1,text,true,,216,305,1,1,http://detectportal.firefox.com/success.txt?ipv6,149,0,0
+1673846673660,121,Start Test/canonical.html-238,200,OK,Thread Group 1-1,text,true,,298,303,1,1,http://detectportal.firefox.com/canonical.html,121,0,0
+1673846673782,112,Start Test/success.txt-240,200,OK,Thread Group 1-1,text,true,,216,305,1,1,http://detectportal.firefox.com/success.txt?ipv6,112,0,0
+1673846673895,104,Start Test/success.txt-239,200,OK,Thread Group 1-1,text,true,,216,305,1,1,http://detectportal.firefox.com/success.txt?ipv4,104,0,0
+1673846673999,125,Sign In/canonical.html-1,200,OK,Thread Group 1-1,text,true,,298,303,1,1,http://detectportal.firefox.com/canonical.html,125,0,0
+1673846674124,107,Sign In/success.txt-2,200,OK,Thread Group 1-1,text,true,,216,305,1,1,http://detectportal.firefox.com/success.txt?ipv6,107,0,0
+1673846674232,113,Sign In/success.txt-3,200,OK,Thread Group 1-1,text,true,,216,305,1,1,http://detectportal.firefox.com/success.txt?ipv4,113,0,0
+1673846674345,110,Sign In/canonical.html-4,200,OK,Thread Group 1-1,text,true,,298,303,1,1,http://detectportal.firefox.com/canonical.html,109,0,0
+1673846674455,109,Sign In/success.txt-5,200,OK,Thread Group 1-1,text,true,,216,305,1,1,http://detectportal.firefox.com/success.txt?ipv6,109,0,0
+1673846674565,154,Sign In/success.txt-6,200,OK,Thread Group 1-1,text,true,,216,305,1,1,http://detectportal.firefox.com/success.txt?ipv4,154,0,0
+1673846674720,124,Sign In/canonical.html-7,200,OK,Thread Group 1-1,text,true,,298,303,1,1,http://detectportal.firefox.com/canonical.html,124,0,0
+1673846674845,108,Sign In/success.txt-8,200,OK,Thread Group 1-1,text,true,,216,305,1,1,http://detectportal.firefox.com/success.txt?ipv4,108,0,0
+1673846674954,108,Sign In/success.txt-9,200,OK,Thread Group 1-1,text,true,,216,305,1,1,http://detectportal.firefox.com/success.txt?ipv6,108,0,0
+1673846675062,109,Sign In/canonical.html-10,200,OK,Thread Group 1-1,text,true,,298,303,1,1,http://detectportal.firefox.com/canonical.html,109,0,0
+1673846675172,110,Sign In/success.txt-11,200,OK,Thread Group 1-1,text,true,,216,305,1,1,http://detectportal.firefox.com/success.txt?ipv4,110,0,0
+1673846675283,110,Sign In/success.txt-12,200,OK,Thread Group 1-1,text,true,,216,305,1,1,http://detectportal.firefox.com/success.txt?ipv6,110,0,0
+1673846675393,128,Sign In/canonical.html-13,200,OK,Thread Group 1-1,text,true,,298,303,1,1,http://detectportal.firefox.com/canonical.html,128,0,0
+1673846675521,109,Sign In/success.txt-14,200,OK,Thread Group 1-1,text,true,,216,305,1,1,http://detectportal.firefox.com/success.txt?ipv4,109,0,0
+1673846675630,116,Sign In/success.txt-15,200,OK,Thread Group 1-1,text,true,,216,305,1,1,http://detectportal.firefox.com/success.txt?ipv6,116,0,0
+1673846675746,552,Sign In/mybdjobs/logout.asp-16,200,OK,Thread Group 1-1,text,true,,83515,1076,1,1,https://mybdjobs.bdjobs.com/mybdjobs/signin.asp?q=6,258,0,0
+1673846675746,258,Sign In/mybdjobs/logout.asp-16-0,302,Object moved,Thread Group 1-1,text,true,,527,536,1,1,https://mybdjobs.bdjobs.com/mybdjobs/logout.asp,258,0,0
+1673846676003,295,Sign In/mybdjobs/logout.asp-16-1,200,OK,Thread Group 1-1,text,true,,82988,540,1,1,https://mybdjobs.bdjobs.com/mybdjobs/signin.asp?q=6,264,0,0
+1673846676299,110,Sign In/canonical.html-18,200,OK,Thread Group 1-1,text,true,,298,303,1,1,http://detectportal.firefox.com/canonical.html,110,0,0
+1673846676409,109,Sign In/success.txt-19,200,OK,Thread Group 1-1,text,true,,216,305,1,1,http://detectportal.firefox.com/success.txt?ipv4,109,0,0
+1673846676518,108,Sign In/success.txt-20,200,OK,Thread Group 1-1,text,true,,216,305,1,1,http://detectportal.firefox.com/success.txt?ipv6,108,0,0
+1673846676627,529,Sign In/mybdjobs/default.asp-17,200,OK,Thread Group 1-1,text,true,,84586,1073,1,1,https://mybdjobs.bdjobs.com/mybdjobs/signin.asp,256,0,0
+1673846676627,256,Sign In/mybdjobs/default.asp-17-0,302,Object moved,Thread Group 1-1,text,true,,507,537,1,1,https://mybdjobs.bdjobs.com/mybdjobs/default.asp,256,0,0
+1673846676884,272,Sign In/mybdjobs/default.asp-17-1,200,OK,Thread Group 1-1,text,true,,84079,536,1,1,https://mybdjobs.bdjobs.com/mybdjobs/signin.asp,264,0,0
+1673846677157,274,Sign In/mybdjobs/signin.asp-21,200,OK,Thread Group 1-1,text,true,,84079,536,1,1,https://mybdjobs.bdjobs.com/mybdjobs/signin.asp,266,0,0
+1673846677431,104,Sign In/canonical.html-22,200,OK,Thread Group 1-1,text,true,,298,303,1,1,http://detectportal.firefox.com/canonical.html,104,0,0
+1673846677535,111,Sign In/success.txt-24,200,OK,Thread Group 1-1,text,true,,216,305,1,1,http://detectportal.firefox.com/success.txt?ipv6,111,0,0
+1673846677647,108,Sign In/success.txt-23,200,OK,Thread Group 1-1,text,true,,216,305,1,1,http://detectportal.firefox.com/success.txt?ipv4,108,0,0
+1673846677756,115,Sign In/canonical.html-25,200,OK,Thread Group 1-1,text,true,,298,303,1,1,http://detectportal.firefox.com/canonical.html,115,0,0
+1673846677872,154,Sign In/canonical.html-26,200,OK,Thread Group 1-1,text,true,,298,303,1,1,http://detectportal.firefox.com/canonical.html,154,0,0
+1673846678027,103,Sign In/success.txt-27,200,OK,Thread Group 1-1,text,true,,216,305,1,1,http://detectportal.firefox.com/success.txt?ipv6,103,0,0
+1673846678131,110,Sign In/success.txt-28,200,OK,Thread Group 1-1,text,true,,216,305,1,1,http://detectportal.firefox.com/success.txt?ipv4,110,0,0
+1673846678242,109,Sign In/success.txt-29,200,OK,Thread Group 1-1,text,true,,216,305,1,1,http://detectportal.firefox.com/success.txt?ipv4,109,0,0
+1673846678351,109,Sign In/success.txt-30,200,OK,Thread Group 1-1,text,true,,216,305,1,1,http://detectportal.firefox.com/success.txt?ipv6,109,0,0
+1673846678460,110,Sign In/canonical.html-31,200,OK,Thread Group 1-1,text,true,,298,303,1,1,http://detectportal.firefox.com/canonical.html,110,0,0
+1673846678571,108,Sign In/success.txt-32,200,OK,Thread Group 1-1,text,true,,216,305,1,1,http://detectportal.firefox.com/success.txt?ipv4,108,0,0
+1673846678679,109,Sign In/success.txt-33,200,OK,Thread Group 1-1,text,true,,216,305,1,1,http://detectportal.firefox.com/success.txt?ipv6,109,0,0
+1673846678789,114,Sign In/canonical.html-34,200,OK,Thread Group 1-1,text,true,,298,303,1,1,http://detectportal.firefox.com/canonical.html,114,0,0
+1673846678904,107,Sign In/success.txt-36,200,OK,Thread Group 1-1,text,true,,216,305,1,1,http://detectportal.firefox.com/success.txt?ipv6,107,0,0
+1673846679011,111,Sign In/success.txt-35,200,OK,Thread Group 1-1,text,true,,216,305,1,1,http://detectportal.firefox.com/success.txt?ipv4,111,0,0
+1673846679122,110,Sign In/canonical.html-37,200,OK,Thread Group 1-1,text,true,,298,303,1,1,http://detectportal.firefox.com/canonical.html,110,0,0
+1673846679233,108,Sign In/success.txt-38,200,OK,Thread Group 1-1,text,true,,216,305,1,1,http://detectportal.firefox.com/success.txt?ipv4,108,0,0
+1673846679342,109,Sign In/success.txt-39,200,OK,Thread Group 1-1,text,true,,216,305,1,1,http://detectportal.firefox.com/success.txt?ipv6,109,0,0
